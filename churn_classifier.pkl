@@ -1,0 +1,28 @@
+import joblib
+import pandas as pd
+
+# Load the saved model pipeline
+model_pipeline = joblib.load('/mnt/data/random_forest_model.pkl')
+
+# Prepare new data for prediction (ensure it has the same structure as the training data)
+new_data = pd.DataFrame({
+    'age': [28],
+    'gender': ['Male'],
+    'location': ['Urban'],
+    'plan_type': ['Basic'],
+    'tenure': [12],
+    'monthly_charges': [75],
+    'call_frequency': [100],
+    'data_usage': [50],
+    'internet_usage': [150],
+    'payment_methods': ['Credit Card'],
+    'issue_types': ['Billing'],
+    'CLTV': [900],  # tenure * monthly_charges
+    'ARPU': [75],   # monthly_charges
+    'call_data_ratio': [100 / (100 + 50)]  # call_frequency / (call_frequency + data_usage)
+})
+
+# Make a prediction
+prediction = model_pipeline.predict(new_data)
+print("Churn Prediction:", prediction)
+

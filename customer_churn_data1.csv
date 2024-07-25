@@ -1,0 +1,1001 @@
+customer_id,age,gender,location,plan_type,tenure,monthly_charges,call_frequency,data_usage,internet_usage,late_payments,payment_methods,num_tickets,issue_types,churn
+1,56,Male,Urban,Premium,26,98.67,121,37.04,34.09,6,Cash,6,Technical,0
+2,69,Male,Suburban,Standard,48,97.37,174,27.13,44.44,7,Debit Card,4,Technical,0
+3,46,Male,Urban,Basic,52,94.78,178,32.68,34.63,1,Cash,8,Technical,1
+4,32,Female,Suburban,Basic,70,35.06,84,13.7,12.18,8,Bank Transfer,4,Technical,0
+5,60,Male,Urban,Standard,55,41.72,44,29.65,46.58,6,Cash,1,General,0
+6,25,Male,Rural,Standard,33,66.4,135,24.46,5.24,7,Debit Card,2,None,1
+7,38,Male,Suburban,Standard,62,46.4,15,6.67,13.4,5,Debit Card,3,None,0
+8,56,Female,Rural,Standard,23,61.52,194,12.13,26.01,5,Bank Transfer,4,Billing,0
+9,36,Female,Suburban,Premium,15,108.85,8,14.58,28.29,8,Debit Card,2,General,1
+10,40,Male,Rural,Basic,27,102.43,14,46.22,0.77,3,Debit Card,6,Billing,0
+11,28,Male,Urban,Premium,64,83.0,101,11.52,39.03,4,Cash,4,Billing,0
+12,28,Male,Urban,Basic,51,105.81,225,14.46,18.08,8,Credit Card,4,None,0
+13,41,Male,Urban,Basic,53,98.38,277,18.47,20.32,0,Debit Card,5,General,0
+14,53,Female,Suburban,Standard,51,62.9,112,33.19,40.47,3,Debit Card,6,Technical,1
+15,57,Female,Rural,Premium,47,40.11,0,5.91,18.96,6,Bank Transfer,9,None,0
+16,41,Female,Urban,Standard,4,71.42,265,47.7,2.36,8,Bank Transfer,9,General,0
+17,20,Female,Rural,Premium,7,93.62,207,43.28,8.82,9,Cash,7,General,1
+18,39,Male,Rural,Basic,35,63.64,109,28.86,47.8,5,Cash,8,None,1
+19,19,Male,Urban,Standard,48,86.68,199,33.7,3.52,7,Debit Card,3,None,1
+20,41,Male,Urban,Standard,45,29.43,11,0.83,17.75,8,Credit Card,4,Billing,0
+21,61,Female,Rural,Basic,19,94.8,187,16.95,25.16,9,Credit Card,4,Billing,0
+22,47,Male,Urban,Basic,63,101.27,153,39.78,24.66,3,Cash,7,Billing,0
+23,55,Female,Urban,Basic,38,90.68,278,3.87,0.2,0,Bank Transfer,8,Technical,0
+24,19,Female,Urban,Standard,67,116.73,170,14.12,25.06,7,Debit Card,6,None,0
+25,38,Male,Suburban,Premium,59,102.67,133,29.26,19.19,1,Debit Card,4,General,0
+26,50,Male,Rural,Standard,69,110.31,24,12.82,48.6,0,Credit Card,2,None,0
+27,29,Male,Rural,Premium,13,113.36,17,46.7,7.96,6,Cash,0,General,1
+28,39,Female,Suburban,Standard,47,100.13,189,6.55,17.71,9,Credit Card,8,Technical,0
+29,61,Male,Rural,Standard,61,87.43,140,39.87,20.97,8,Credit Card,4,None,0
+30,42,Female,Urban,Basic,31,20.57,42,25.4,19.53,8,Cash,8,General,0
+31,66,Male,Rural,Premium,22,66.58,283,37.52,33.29,2,Bank Transfer,9,General,0
+32,44,Female,Urban,Standard,43,77.12,145,15.54,10.78,5,Debit Card,3,Billing,0
+33,59,Female,Suburban,Standard,67,50.4,91,25.72,11.05,6,Bank Transfer,4,Technical,0
+34,45,Male,Urban,Basic,54,51.81,178,42.84,36.46,9,Cash,3,None,0
+35,33,Female,Rural,Basic,10,116.12,55,23.34,25.01,8,Cash,1,Billing,0
+36,32,Female,Rural,Premium,42,109.17,154,17.99,20.76,1,Debit Card,0,Technical,0
+37,64,Male,Rural,Standard,64,104.92,159,26.81,8.46,7,Bank Transfer,7,Billing,0
+38,68,Female,Suburban,Premium,21,60.6,110,35.87,9.38,6,Debit Card,3,None,0
+39,61,Male,Suburban,Standard,66,21.37,136,22.18,0.53,3,Credit Card,4,General,0
+40,69,Female,Rural,Premium,41,28.02,231,46.94,4.57,1,Credit Card,5,None,0
+41,20,Male,Urban,Basic,24,51.22,219,14.75,27.84,7,Credit Card,7,Technical,0
+42,54,Male,Suburban,Standard,35,21.57,67,23.77,44.59,4,Bank Transfer,7,None,0
+43,68,Female,Rural,Premium,56,21.71,248,37.85,14.36,5,Credit Card,6,Technical,0
+44,24,Female,Rural,Basic,30,111.66,5,34.46,16.39,6,Debit Card,3,Billing,1
+45,38,Female,Suburban,Basic,57,90.62,279,43.18,5.78,9,Bank Transfer,5,Technical,0
+46,26,Female,Suburban,Premium,47,50.9,93,49.84,19.43,0,Debit Card,3,General,1
+47,56,Female,Suburban,Standard,35,33.26,268,21.34,1.86,7,Cash,6,General,0
+48,35,Male,Urban,Standard,19,71.16,196,5.56,45.88,3,Bank Transfer,0,General,0
+49,21,Female,Urban,Basic,8,20.53,24,1.52,33.66,8,Debit Card,4,Billing,0
+50,42,Male,Rural,Standard,26,113.84,147,36.34,49.54,0,Debit Card,9,Technical,0
+51,31,Male,Suburban,Standard,71,61.48,117,43.7,44.14,1,Bank Transfer,9,Billing,0
+52,67,Female,Urban,Standard,30,60.23,65,11.04,23.65,5,Cash,3,None,0
+53,26,Male,Suburban,Basic,7,59.06,174,7.92,25.98,9,Bank Transfer,6,None,0
+54,43,Male,Rural,Premium,67,26.93,75,3.11,9.53,0,Credit Card,8,None,0
+55,19,Male,Urban,Standard,65,83.83,113,41.14,23.1,3,Credit Card,4,None,1
+56,37,Male,Urban,Basic,36,93.3,110,15.57,45.15,7,Cash,3,General,1
+57,45,Female,Urban,Basic,25,87.61,248,20.08,2.54,9,Debit Card,8,Technical,0
+58,64,Male,Rural,Premium,37,33.84,202,25.14,43.18,4,Debit Card,4,General,0
+59,24,Female,Suburban,Standard,1,77.88,146,41.97,17.05,8,Debit Card,8,Technical,1
+60,61,Female,Urban,Standard,15,76.95,34,32.54,44.98,5,Bank Transfer,7,Technical,0
+61,25,Male,Rural,Premium,37,106.84,25,30.75,47.04,0,Bank Transfer,3,Billing,0
+62,64,Female,Suburban,Premium,13,57.91,237,8.78,33.54,5,Cash,6,None,1
+63,52,Female,Rural,Basic,8,57.15,13,25.66,33.22,5,Credit Card,4,Technical,0
+64,31,Female,Suburban,Basic,5,81.85,44,35.77,22.64,5,Debit Card,9,None,0
+65,34,Male,Rural,Premium,60,83.31,215,48.66,41.78,7,Credit Card,3,None,0
+66,53,Female,Suburban,Standard,1,66.93,232,10.07,48.08,5,Bank Transfer,4,None,0
+67,67,Female,Urban,Basic,36,64.31,192,0.48,38.75,4,Bank Transfer,4,General,1
+68,57,Female,Suburban,Basic,35,69.41,50,3.77,31.1,1,Bank Transfer,8,None,0
+69,21,Male,Rural,Standard,66,106.1,213,18.79,30.34,3,Credit Card,8,Technical,1
+70,19,Female,Rural,Basic,63,66.12,150,41.03,42.47,9,Cash,5,General,1
+71,23,Male,Suburban,Standard,23,113.99,274,0.36,27.06,4,Cash,3,None,0
+72,59,Male,Urban,Standard,9,70.4,75,22.84,40.19,9,Bank Transfer,1,Billing,0
+73,21,Male,Urban,Standard,34,114.92,219,16.46,25.44,3,Debit Card,2,None,0
+74,46,Male,Suburban,Premium,46,103.28,186,2.62,3.12,1,Credit Card,1,None,0
+75,35,Male,Suburban,Premium,4,56.24,288,22.51,19.2,6,Bank Transfer,4,General,0
+76,43,Male,Rural,Premium,30,106.36,27,12.74,22.22,9,Credit Card,5,Technical,0
+77,61,Female,Urban,Standard,3,31.01,179,17.59,7.08,9,Credit Card,4,None,0
+78,51,Male,Suburban,Standard,14,112.5,252,35.28,5.12,1,Cash,1,General,0
+79,27,Female,Urban,Premium,60,83.16,125,26.08,26.77,0,Bank Transfer,4,General,0
+80,53,Female,Suburban,Basic,45,25.44,176,6.23,4.26,4,Cash,8,Technical,1
+81,31,Male,Suburban,Standard,34,84.43,36,48.07,15.15,0,Bank Transfer,3,General,0
+82,48,Female,Urban,Basic,45,117.42,98,31.8,37.23,0,Credit Card,9,Technical,1
+83,65,Female,Suburban,Basic,61,26.98,97,38.29,48.22,0,Cash,1,Billing,0
+84,32,Female,Suburban,Standard,16,75.47,126,3.96,35.89,5,Credit Card,2,None,0
+85,25,Female,Rural,Standard,66,94.78,167,2.35,49.63,8,Bank Transfer,2,General,0
+86,31,Male,Suburban,Basic,40,101.03,79,0.97,34.92,9,Debit Card,8,Billing,0
+87,40,Female,Suburban,Basic,17,61.38,293,9.44,14.69,0,Cash,3,General,0
+88,57,Male,Suburban,Premium,34,40.42,125,20.72,33.6,4,Cash,0,General,0
+89,38,Female,Rural,Premium,16,24.23,149,46.79,35.11,8,Credit Card,0,Billing,0
+90,33,Female,Urban,Standard,60,77.97,15,22.85,18.59,8,Credit Card,6,General,0
+91,62,Male,Rural,Premium,66,65.29,27,14.51,0.89,0,Debit Card,6,General,0
+92,35,Female,Rural,Premium,66,114.87,172,28.1,35.16,7,Cash,1,Billing,0
+93,64,Female,Urban,Premium,13,26.06,45,5.6,1.09,0,Bank Transfer,8,General,0
+94,41,Female,Rural,Premium,56,88.54,235,30.48,31.56,7,Bank Transfer,8,Technical,0
+95,43,Male,Urban,Basic,31,22.5,213,28.42,8.18,0,Cash,4,General,1
+96,42,Female,Rural,Standard,34,37.14,84,39.6,28.28,4,Cash,2,None,1
+97,62,Male,Urban,Premium,39,65.36,281,49.33,25.2,7,Cash,2,General,1
+98,58,Female,Suburban,Basic,67,65.49,231,12.54,0.68,5,Debit Card,2,None,0
+99,46,Male,Rural,Basic,8,88.57,84,25.48,18.14,8,Bank Transfer,5,None,0
+100,32,Male,Rural,Basic,55,111.02,64,45.44,30.05,0,Bank Transfer,3,General,0
+101,62,Female,Rural,Premium,27,83.9,133,39.26,42.43,8,Credit Card,7,Billing,0
+102,18,Female,Rural,Premium,53,115.35,150,24.37,44.43,0,Credit Card,4,Technical,1
+103,42,Male,Suburban,Standard,39,108.16,114,47.27,24.19,9,Cash,0,Technical,0
+104,24,Male,Rural,Premium,65,78.45,63,2.86,36.42,9,Credit Card,8,General,0
+105,26,Female,Suburban,Premium,17,103.38,157,46.55,15.82,2,Debit Card,0,Billing,0
+106,41,Male,Suburban,Basic,30,84.26,76,2.53,17.11,0,Bank Transfer,5,Billing,1
+107,18,Female,Suburban,Standard,53,27.86,145,27.37,9.72,2,Bank Transfer,0,Technical,0
+108,61,Female,Suburban,Premium,13,94.06,224,44.52,28.1,1,Credit Card,2,Billing,0
+109,25,Female,Urban,Premium,21,29.49,102,13.14,15.73,1,Cash,9,General,0
+110,41,Female,Urban,Basic,19,79.41,87,23.61,4.22,8,Credit Card,4,General,0
+111,28,Male,Rural,Basic,53,90.26,167,16.22,34.25,7,Cash,9,Billing,1
+112,68,Female,Urban,Premium,19,26.65,169,47.61,35.39,0,Debit Card,6,General,0
+113,34,Male,Urban,Standard,57,43.08,134,41.18,18.0,3,Bank Transfer,9,None,0
+114,25,Female,Rural,Standard,25,111.57,49,35.45,3.84,0,Debit Card,7,Technical,1
+115,52,Male,Rural,Basic,31,81.63,133,29.38,21.31,0,Bank Transfer,8,General,0
+116,52,Female,Rural,Basic,55,44.63,136,41.03,22.12,3,Debit Card,5,Billing,0
+117,50,Male,Urban,Premium,23,89.07,244,19.61,33.43,1,Credit Card,8,Technical,0
+118,22,Male,Urban,Basic,32,79.68,108,22.38,15.77,2,Debit Card,7,General,0
+119,59,Female,Rural,Premium,62,70.16,286,36.5,34.13,8,Debit Card,8,Technical,0
+120,56,Female,Suburban,Standard,10,117.62,20,17.89,43.57,1,Credit Card,9,Billing,0
+121,58,Female,Rural,Standard,54,88.35,89,3.2,11.87,3,Bank Transfer,3,None,1
+122,45,Female,Suburban,Premium,52,57.54,295,3.72,48.95,0,Bank Transfer,8,None,0
+123,24,Male,Suburban,Basic,20,100.01,111,5.77,19.32,1,Credit Card,6,General,1
+124,26,Female,Rural,Standard,32,108.46,76,43.48,13.36,4,Debit Card,4,None,0
+125,25,Male,Rural,Basic,14,32.52,176,23.61,21.08,9,Debit Card,4,General,0
+126,29,Male,Rural,Standard,50,40.06,147,35.64,4.72,0,Debit Card,0,Technical,1
+127,51,Female,Urban,Premium,28,41.62,100,19.65,6.29,6,Cash,1,General,0
+128,50,Male,Suburban,Premium,53,89.12,245,12.94,20.72,3,Bank Transfer,9,General,0
+129,65,Male,Urban,Premium,24,80.3,116,17.36,38.12,5,Debit Card,2,General,0
+130,40,Male,Urban,Standard,22,81.9,91,39.71,45.02,7,Bank Transfer,7,None,0
+131,41,Male,Rural,Basic,30,114.08,27,31.26,33.24,5,Debit Card,5,General,0
+132,54,Female,Urban,Basic,63,97.59,24,46.88,5.26,1,Credit Card,9,Billing,0
+133,52,Female,Rural,Basic,4,32.79,57,33.99,33.6,0,Credit Card,4,General,0
+134,61,Female,Suburban,Standard,59,54.75,296,28.51,31.77,7,Bank Transfer,0,Technical,0
+135,57,Female,Rural,Standard,8,63.54,133,30.51,40.29,7,Bank Transfer,8,Billing,1
+136,39,Male,Urban,Standard,12,59.6,248,47.12,41.26,8,Credit Card,2,Technical,1
+137,44,Male,Urban,Standard,31,86.93,37,39.41,43.41,5,Cash,2,Technical,0
+138,52,Female,Rural,Standard,34,109.19,74,1.2,20.71,0,Credit Card,1,Technical,1
+139,18,Female,Rural,Basic,49,50.61,141,26.71,34.89,8,Debit Card,3,Billing,0
+140,52,Female,Urban,Standard,57,75.19,167,34.42,13.41,2,Cash,1,Billing,0
+141,54,Male,Suburban,Standard,26,98.94,258,37.43,49.97,5,Credit Card,8,None,0
+142,64,Female,Suburban,Basic,18,61.62,224,10.66,8.77,9,Cash,9,Billing,0
+143,31,Female,Rural,Standard,38,36.81,151,43.36,0.51,9,Cash,6,General,0
+144,20,Female,Suburban,Basic,50,67.5,18,47.79,7.44,8,Cash,7,Technical,0
+145,18,Male,Urban,Basic,8,25.52,145,11.84,38.79,2,Bank Transfer,2,None,0
+146,22,Male,Rural,Premium,41,114.24,240,44.13,22.34,4,Credit Card,5,Billing,0
+147,43,Male,Urban,Premium,6,27.48,236,4.85,22.38,4,Bank Transfer,9,Technical,1
+148,31,Male,Urban,Premium,69,63.85,34,2.79,47.75,9,Bank Transfer,5,Billing,0
+149,56,Male,Suburban,Premium,44,72.99,189,6.46,45.98,6,Debit Card,0,None,0
+150,44,Male,Rural,Standard,64,118.53,0,2.89,15.56,3,Debit Card,5,Billing,0
+151,26,Male,Rural,Premium,29,36.6,152,42.25,10.45,3,Cash,2,Billing,0
+152,32,Male,Suburban,Basic,28,31.44,125,2.95,42.42,6,Cash,2,Technical,0
+153,32,Female,Urban,Standard,11,20.87,225,13.58,45.3,8,Debit Card,2,General,0
+154,43,Female,Urban,Premium,65,35.56,220,5.19,27.08,3,Debit Card,9,Billing,0
+155,59,Male,Urban,Basic,19,40.73,210,14.77,31.47,3,Credit Card,9,None,1
+156,30,Male,Urban,Standard,9,83.06,24,4.53,12.85,5,Cash,7,Billing,0
+157,68,Female,Rural,Standard,27,41.97,15,33.4,40.04,5,Cash,4,Billing,1
+158,49,Male,Rural,Premium,34,22.05,181,6.67,31.61,6,Debit Card,3,General,1
+159,56,Male,Suburban,Standard,44,102.66,128,42.59,25.18,0,Credit Card,8,Technical,0
+160,66,Male,Suburban,Basic,68,56.56,41,40.86,3.01,2,Debit Card,8,None,0
+161,69,Female,Rural,Standard,15,55.37,235,0.68,45.8,8,Debit Card,0,Technical,0
+162,49,Female,Rural,Basic,51,50.25,33,44.79,30.77,5,Bank Transfer,1,Technical,0
+163,21,Female,Urban,Standard,13,117.54,44,1.45,9.63,5,Cash,7,Technical,0
+164,47,Female,Urban,Premium,49,37.01,133,11.98,30.32,4,Credit Card,4,Billing,0
+165,54,Female,Suburban,Basic,70,109.82,20,1.62,33.87,2,Bank Transfer,6,General,0
+166,40,Male,Rural,Standard,56,97.68,121,16.79,26.29,4,Cash,0,Billing,1
+167,56,Female,Suburban,Standard,51,27.65,69,25.69,35.91,0,Debit Card,9,None,0
+168,62,Male,Rural,Standard,37,118.67,47,39.83,29.07,2,Credit Card,4,General,1
+169,32,Male,Urban,Basic,17,47.14,38,16.9,47.39,3,Cash,2,Technical,0
+170,60,Female,Suburban,Basic,58,29.86,286,35.27,2.68,4,Debit Card,9,General,1
+171,46,Female,Suburban,Basic,29,102.93,9,9.38,5.31,9,Bank Transfer,1,None,0
+172,53,Male,Rural,Premium,33,90.67,29,37.53,8.68,8,Credit Card,1,Billing,0
+173,30,Male,Urban,Premium,60,81.72,243,11.8,34.51,3,Cash,8,Billing,0
+174,49,Male,Suburban,Basic,55,35.6,273,7.18,32.28,2,Bank Transfer,3,Technical,0
+175,24,Female,Urban,Standard,10,67.85,87,9.27,44.6,9,Debit Card,3,Billing,0
+176,68,Female,Suburban,Premium,47,98.06,243,9.1,36.64,0,Debit Card,6,Billing,0
+177,39,Female,Urban,Basic,23,50.36,14,25.64,25.42,9,Cash,9,None,0
+178,45,Female,Rural,Standard,21,51.17,3,42.24,49.59,5,Debit Card,9,General,0
+179,19,Female,Suburban,Premium,13,20.31,190,3.98,13.31,6,Credit Card,1,Billing,0
+180,59,Male,Suburban,Standard,33,37.42,167,35.35,41.66,9,Cash,2,None,0
+181,62,Female,Urban,Standard,24,107.54,8,32.72,21.34,7,Bank Transfer,2,None,0
+182,23,Male,Urban,Standard,11,64.17,108,43.63,32.44,0,Cash,5,Technical,1
+183,45,Male,Suburban,Standard,17,118.42,136,12.21,36.36,3,Cash,2,None,0
+184,45,Male,Rural,Premium,68,59.57,153,22.51,31.69,4,Bank Transfer,4,Technical,0
+185,61,Female,Urban,Premium,47,91.52,208,46.29,7.03,1,Debit Card,3,Billing,1
+186,61,Female,Urban,Premium,25,48.19,271,33.0,22.15,0,Bank Transfer,2,Technical,0
+187,37,Female,Urban,Basic,21,56.38,142,19.44,28.07,7,Credit Card,7,None,0
+188,47,Male,Suburban,Premium,12,39.07,98,6.57,42.45,5,Debit Card,9,General,0
+189,28,Male,Suburban,Standard,37,54.71,68,13.12,22.18,4,Cash,2,General,0
+190,45,Male,Suburban,Premium,42,74.72,246,29.06,45.94,8,Debit Card,5,Billing,0
+191,42,Male,Suburban,Standard,17,119.18,260,35.91,22.02,1,Debit Card,6,Billing,0
+192,56,Male,Rural,Basic,48,86.42,275,6.22,27.44,9,Credit Card,6,General,0
+193,50,Male,Rural,Standard,28,39.92,78,29.98,39.81,7,Debit Card,1,Technical,0
+194,18,Female,Suburban,Standard,41,24.5,145,27.52,29.15,9,Debit Card,2,Billing,0
+195,44,Female,Rural,Standard,47,32.64,110,25.7,48.01,8,Debit Card,9,None,1
+196,69,Female,Urban,Basic,18,76.26,257,34.51,33.02,0,Cash,9,Billing,0
+197,30,Female,Urban,Premium,71,96.52,92,41.87,26.14,6,Debit Card,3,Technical,1
+198,58,Male,Urban,Premium,13,114.04,12,16.15,1.18,7,Bank Transfer,6,Billing,1
+199,20,Male,Suburban,Basic,13,21.58,259,44.45,20.69,2,Debit Card,1,None,0
+200,56,Female,Urban,Standard,31,72.28,108,8.03,14.96,3,Credit Card,2,None,0
+201,23,Male,Rural,Premium,2,67.09,188,8.65,37.41,2,Debit Card,6,None,0
+202,25,Female,Suburban,Basic,16,85.61,94,13.34,10.41,6,Debit Card,6,Technical,1
+203,44,Female,Rural,Premium,9,75.96,104,5.98,10.26,8,Cash,9,Technical,0
+204,26,Female,Urban,Basic,38,88.7,7,11.52,9.48,2,Bank Transfer,2,None,1
+205,54,Male,Urban,Standard,54,85.81,66,5.32,6.28,5,Debit Card,0,None,0
+206,50,Female,Urban,Premium,56,31.7,190,41.09,15.55,7,Bank Transfer,2,Technical,0
+207,68,Female,Suburban,Basic,45,99.97,255,6.95,44.3,5,Credit Card,4,Technical,0
+208,59,Female,Rural,Premium,34,32.32,8,37.36,38.75,1,Cash,6,Technical,0
+209,61,Male,Suburban,Premium,9,89.85,116,2.4,36.76,6,Bank Transfer,3,General,0
+210,41,Male,Suburban,Premium,8,61.61,266,47.43,39.87,1,Cash,0,Technical,0
+211,32,Female,Urban,Premium,7,71.39,98,35.56,13.47,1,Debit Card,5,None,0
+212,49,Male,Suburban,Basic,36,110.33,297,0.34,44.37,1,Credit Card,1,General,0
+213,49,Male,Suburban,Standard,18,108.99,163,38.19,6.87,0,Cash,2,Technical,1
+214,41,Male,Urban,Basic,3,101.79,140,25.7,16.82,0,Debit Card,3,None,1
+215,58,Male,Suburban,Basic,28,71.01,267,38.97,29.34,6,Bank Transfer,5,Billing,0
+216,69,Male,Urban,Basic,70,93.62,36,26.12,5.15,4,Credit Card,5,General,0
+217,66,Male,Urban,Standard,44,71.29,73,32.05,36.51,2,Credit Card,6,None,0
+218,66,Male,Urban,Premium,21,106.96,72,39.32,19.36,0,Bank Transfer,4,Billing,0
+219,69,Male,Urban,Premium,28,60.28,198,20.26,39.22,9,Bank Transfer,6,None,0
+220,29,Male,Suburban,Premium,54,117.02,129,0.14,24.64,5,Credit Card,1,Technical,0
+221,56,Male,Urban,Standard,54,113.23,245,42.5,9.04,0,Cash,0,Technical,1
+222,19,Female,Urban,Premium,65,94.16,59,19.04,36.74,8,Credit Card,9,Billing,1
+223,20,Female,Suburban,Standard,21,47.94,278,24.8,12.61,1,Bank Transfer,7,Technical,0
+224,66,Male,Suburban,Premium,13,33.17,102,0.39,24.54,0,Cash,0,None,0
+225,54,Female,Rural,Premium,57,105.47,295,24.6,3.78,6,Debit Card,1,Billing,0
+226,66,Female,Suburban,Basic,49,36.53,150,49.32,30.89,5,Credit Card,9,None,0
+227,34,Male,Suburban,Standard,54,105.43,156,13.91,33.29,5,Bank Transfer,5,None,0
+228,66,Male,Rural,Basic,10,69.08,205,19.77,18.93,4,Debit Card,0,None,0
+229,19,Male,Suburban,Basic,53,60.66,178,34.36,47.72,3,Credit Card,9,Technical,0
+230,19,Female,Suburban,Basic,44,110.32,196,40.74,43.71,3,Credit Card,2,Technical,1
+231,45,Female,Suburban,Standard,47,80.39,222,20.87,35.4,2,Cash,6,None,0
+232,40,Male,Suburban,Standard,53,77.66,88,15.48,35.68,9,Bank Transfer,7,General,1
+233,54,Male,Rural,Premium,46,75.88,286,46.89,12.62,7,Debit Card,3,None,1
+234,49,Male,Suburban,Basic,13,57.12,275,33.86,32.84,6,Credit Card,2,None,1
+235,50,Female,Suburban,Premium,37,98.56,235,5.95,9.91,8,Cash,0,Billing,0
+236,18,Female,Rural,Basic,24,45.28,182,3.45,7.2,0,Debit Card,8,None,0
+237,36,Female,Urban,Standard,2,113.89,208,24.18,49.97,6,Debit Card,9,Technical,0
+238,19,Female,Rural,Standard,14,109.4,129,11.0,31.12,9,Credit Card,5,Billing,0
+239,61,Male,Urban,Standard,10,53.75,152,12.7,21.55,3,Debit Card,5,General,0
+240,43,Male,Rural,Basic,35,92.95,12,43.88,14.41,6,Credit Card,8,Billing,0
+241,49,Male,Rural,Standard,25,77.32,121,4.48,30.2,0,Cash,0,General,0
+242,23,Male,Suburban,Basic,3,53.76,219,35.77,2.48,4,Cash,5,Billing,0
+243,49,Female,Urban,Premium,17,118.85,105,13.56,4.73,2,Debit Card,4,Billing,1
+244,21,Female,Suburban,Basic,12,22.52,69,38.02,1.64,4,Credit Card,5,General,0
+245,28,Male,Urban,Premium,54,45.26,194,36.12,24.96,3,Bank Transfer,7,Technical,0
+246,34,Male,Rural,Basic,24,72.01,185,0.37,30.03,1,Cash,4,Technical,0
+247,55,Female,Rural,Premium,29,72.2,98,25.46,3.12,3,Credit Card,1,Technical,0
+248,41,Male,Urban,Standard,43,78.89,81,6.97,36.06,2,Credit Card,1,Billing,0
+249,22,Female,Suburban,Premium,25,95.17,74,43.31,11.52,0,Credit Card,9,None,0
+250,69,Male,Suburban,Standard,60,82.35,191,43.58,34.26,9,Debit Card,4,Billing,0
+251,51,Male,Suburban,Standard,65,80.03,213,20.92,49.09,7,Bank Transfer,2,None,0
+252,23,Male,Suburban,Premium,28,25.35,143,22.22,34.56,4,Debit Card,9,None,0
+253,39,Male,Rural,Basic,16,57.65,215,15.16,44.16,3,Cash,2,Technical,0
+254,28,Male,Rural,Basic,47,43.21,14,35.83,47.41,9,Debit Card,7,None,0
+255,65,Male,Rural,Basic,58,46.54,216,17.93,24.34,4,Credit Card,6,Billing,0
+256,33,Male,Rural,Basic,27,75.43,34,13.39,35.12,3,Debit Card,0,Billing,0
+257,50,Female,Rural,Basic,53,39.95,182,21.61,42.6,2,Credit Card,4,Technical,1
+258,26,Female,Suburban,Standard,42,49.39,269,4.57,17.83,4,Bank Transfer,8,General,1
+259,23,Female,Suburban,Basic,59,43.71,99,37.33,13.07,3,Debit Card,3,Billing,0
+260,33,Female,Suburban,Standard,47,114.85,6,0.63,47.33,0,Debit Card,0,None,0
+261,46,Female,Suburban,Standard,34,114.47,29,32.22,36.32,2,Debit Card,7,Billing,0
+262,20,Male,Rural,Standard,37,80.99,143,9.14,10.98,9,Credit Card,4,Billing,0
+263,37,Male,Rural,Premium,6,112.45,110,11.62,22.45,9,Credit Card,1,Billing,0
+264,53,Female,Rural,Premium,7,98.58,231,31.78,39.82,7,Debit Card,0,General,0
+265,36,Male,Urban,Standard,25,78.99,178,49.65,27.35,6,Debit Card,2,None,0
+266,43,Female,Suburban,Premium,33,20.64,71,38.89,32.5,1,Bank Transfer,8,Technical,0
+267,20,Female,Suburban,Basic,55,97.25,209,11.29,37.69,0,Bank Transfer,0,Billing,0
+268,36,Male,Rural,Basic,58,90.25,219,8.8,31.1,2,Cash,3,None,0
+269,37,Male,Suburban,Standard,7,81.53,79,43.31,27.0,4,Bank Transfer,7,None,0
+270,49,Male,Suburban,Basic,57,96.04,82,22.21,37.48,9,Bank Transfer,7,Technical,0
+271,24,Female,Rural,Standard,12,71.29,41,6.85,36.38,0,Bank Transfer,9,Billing,0
+272,69,Male,Urban,Standard,16,90.41,272,43.11,31.49,2,Credit Card,7,General,0
+273,58,Female,Urban,Basic,43,113.52,190,40.8,17.99,2,Bank Transfer,9,None,0
+274,50,Female,Urban,Premium,7,57.58,172,49.2,20.29,4,Bank Transfer,7,Technical,0
+275,57,Female,Rural,Basic,51,90.81,6,45.49,48.52,2,Debit Card,3,General,0
+276,56,Male,Suburban,Basic,32,67.57,154,42.59,5.62,8,Credit Card,7,None,0
+277,35,Male,Rural,Standard,8,87.44,9,2.63,13.43,0,Cash,8,Billing,0
+278,57,Female,Rural,Standard,45,96.29,33,5.22,24.62,3,Cash,6,None,0
+279,18,Male,Suburban,Standard,59,24.55,35,28.45,41.84,9,Bank Transfer,1,General,0
+280,28,Male,Urban,Standard,4,84.66,5,26.57,8.18,9,Cash,8,General,0
+281,45,Male,Urban,Premium,67,42.67,214,22.9,13.85,3,Cash,7,Billing,1
+282,42,Female,Rural,Premium,29,87.0,133,19.84,3.29,0,Cash,4,Billing,1
+283,67,Female,Urban,Premium,29,66.83,284,21.56,35.3,1,Bank Transfer,2,Technical,0
+284,40,Male,Rural,Standard,28,97.36,125,28.46,11.91,0,Cash,6,Billing,1
+285,48,Female,Rural,Standard,44,32.34,173,0.1,19.43,5,Bank Transfer,1,Technical,0
+286,47,Male,Suburban,Standard,4,82.63,151,13.04,22.19,2,Debit Card,2,General,0
+287,59,Male,Suburban,Premium,9,47.85,25,25.91,44.57,6,Debit Card,8,General,0
+288,52,Male,Suburban,Standard,5,105.3,114,36.11,20.57,4,Cash,3,None,1
+289,24,Male,Rural,Basic,56,112.84,283,8.71,7.26,8,Debit Card,3,None,0
+290,33,Female,Suburban,Basic,50,119.64,74,27.34,26.22,6,Bank Transfer,2,Technical,1
+291,43,Female,Urban,Standard,15,99.6,165,35.72,48.15,3,Debit Card,4,Billing,0
+292,65,Female,Urban,Basic,32,95.37,188,22.23,30.38,4,Cash,2,Billing,0
+293,69,Male,Rural,Basic,28,41.55,77,1.35,49.17,4,Bank Transfer,8,None,0
+294,66,Male,Rural,Premium,22,53.6,89,22.46,42.06,4,Credit Card,2,General,0
+295,19,Male,Suburban,Standard,17,66.57,175,14.82,1.8,9,Bank Transfer,1,Technical,0
+296,18,Female,Rural,Standard,59,97.34,20,46.48,32.92,8,Debit Card,4,General,0
+297,65,Male,Rural,Premium,71,111.5,53,6.23,14.34,9,Credit Card,5,General,0
+298,29,Female,Urban,Basic,57,38.91,183,32.62,27.98,2,Bank Transfer,0,Billing,0
+299,22,Female,Urban,Basic,26,112.24,221,2.64,13.97,5,Credit Card,5,Technical,0
+300,54,Female,Suburban,Standard,25,89.56,178,22.31,17.44,7,Credit Card,9,General,1
+301,49,Female,Rural,Basic,10,81.08,275,27.7,46.16,8,Credit Card,2,None,0
+302,26,Female,Rural,Premium,45,39.98,111,14.9,10.33,6,Bank Transfer,3,None,0
+303,58,Female,Urban,Premium,11,25.55,223,22.75,43.71,2,Debit Card,5,Billing,0
+304,52,Male,Rural,Standard,53,76.85,213,8.18,1.52,0,Bank Transfer,7,None,0
+305,36,Male,Urban,Premium,68,85.15,58,15.21,4.54,3,Debit Card,8,None,1
+306,65,Female,Suburban,Premium,28,41.08,108,31.06,42.73,5,Bank Transfer,5,General,1
+307,33,Female,Urban,Standard,65,75.65,156,15.09,31.53,2,Bank Transfer,6,None,0
+308,20,Male,Rural,Premium,49,105.65,190,44.99,37.36,0,Bank Transfer,4,None,0
+309,37,Female,Suburban,Premium,47,103.51,199,31.42,10.47,5,Debit Card,8,General,1
+310,41,Female,Urban,Premium,52,112.74,195,21.93,26.85,0,Bank Transfer,3,Billing,1
+311,50,Male,Urban,Basic,54,56.59,34,1.94,36.86,8,Credit Card,9,Billing,1
+312,41,Female,Suburban,Standard,60,51.8,245,24.98,31.37,0,Bank Transfer,5,Technical,1
+313,69,Female,Suburban,Standard,57,94.94,236,38.24,23.58,5,Credit Card,4,None,0
+314,28,Female,Urban,Standard,47,63.11,103,13.28,47.99,0,Cash,0,General,0
+315,66,Male,Rural,Basic,31,28.75,6,40.34,33.81,6,Cash,4,Technical,0
+316,25,Male,Urban,Basic,46,48.28,282,12.59,45.39,2,Debit Card,4,Billing,0
+317,53,Male,Suburban,Standard,26,61.86,0,41.19,36.49,5,Debit Card,8,Billing,0
+318,55,Female,Urban,Basic,5,49.25,218,4.26,36.77,6,Cash,0,General,0
+319,57,Female,Suburban,Standard,52,53.22,229,43.31,4.0,0,Bank Transfer,4,Technical,0
+320,37,Male,Suburban,Basic,54,49.38,171,24.96,17.97,0,Bank Transfer,6,Technical,0
+321,52,Female,Rural,Premium,33,24.15,86,14.83,42.92,4,Bank Transfer,5,General,0
+322,65,Female,Suburban,Premium,50,83.71,40,13.26,11.63,5,Cash,5,General,0
+323,42,Female,Suburban,Standard,38,79.73,122,21.6,5.78,8,Credit Card,6,Technical,0
+324,52,Female,Rural,Basic,27,85.34,297,49.95,16.31,0,Debit Card,5,Billing,1
+325,42,Female,Suburban,Basic,15,39.23,177,11.02,11.02,3,Credit Card,4,None,1
+326,46,Male,Rural,Premium,61,49.57,62,5.16,46.26,9,Cash,9,Billing,0
+327,35,Female,Rural,Premium,21,81.96,164,29.25,43.4,7,Credit Card,4,General,0
+328,63,Male,Suburban,Basic,46,79.96,186,24.43,24.98,9,Bank Transfer,8,Technical,0
+329,35,Female,Suburban,Basic,69,70.63,208,26.21,3.07,8,Bank Transfer,7,Technical,0
+330,19,Male,Urban,Basic,6,55.04,226,33.35,35.73,2,Credit Card,9,None,0
+331,52,Female,Rural,Basic,38,111.29,47,13.36,31.17,1,Cash,3,Technical,0
+332,33,Male,Urban,Basic,62,53.98,223,45.53,48.53,3,Credit Card,3,None,1
+333,58,Female,Suburban,Basic,62,65.56,2,21.78,27.95,1,Bank Transfer,9,Billing,0
+334,53,Male,Urban,Standard,46,87.81,174,6.45,16.82,0,Bank Transfer,4,Billing,0
+335,50,Female,Rural,Basic,13,74.3,98,37.11,25.95,2,Cash,2,Technical,0
+336,21,Male,Urban,Premium,3,54.69,115,32.16,48.96,6,Credit Card,7,Technical,0
+337,50,Female,Rural,Standard,6,63.56,269,15.79,34.82,0,Bank Transfer,6,General,0
+338,31,Male,Suburban,Basic,8,99.45,252,31.08,33.6,1,Bank Transfer,4,General,1
+339,38,Male,Suburban,Premium,44,47.81,94,10.99,12.03,0,Credit Card,9,Technical,0
+340,65,Female,Rural,Standard,33,34.23,272,22.24,37.18,7,Credit Card,2,Technical,0
+341,37,Female,Suburban,Premium,50,51.32,23,44.97,37.51,4,Debit Card,4,Billing,0
+342,25,Male,Suburban,Basic,11,104.95,115,6.68,15.86,7,Cash,2,Technical,0
+343,24,Female,Suburban,Basic,28,28.9,150,19.33,24.19,2,Cash,9,General,0
+344,20,Male,Suburban,Basic,70,119.17,49,41.06,14.73,6,Credit Card,4,Billing,0
+345,34,Male,Rural,Basic,41,74.1,205,48.47,12.94,7,Cash,0,None,0
+346,50,Male,Urban,Standard,16,118.48,78,22.7,1.29,5,Bank Transfer,5,General,0
+347,65,Female,Urban,Standard,68,113.9,69,25.35,14.26,6,Credit Card,9,General,1
+348,29,Male,Suburban,Premium,48,65.28,26,28.61,27.7,1,Credit Card,3,Billing,0
+349,68,Male,Urban,Basic,56,39.85,270,46.62,0.08,7,Credit Card,3,None,0
+350,39,Female,Urban,Premium,64,36.49,49,42.91,14.16,4,Debit Card,7,General,0
+351,39,Female,Suburban,Standard,59,44.0,291,8.53,44.07,6,Cash,1,Technical,0
+352,63,Female,Suburban,Basic,62,91.01,246,21.84,29.68,0,Debit Card,3,General,0
+353,47,Female,Urban,Basic,11,47.29,263,23.2,30.39,4,Bank Transfer,1,Billing,0
+354,55,Male,Rural,Standard,18,54.14,78,39.45,20.17,0,Cash,0,Billing,0
+355,55,Male,Suburban,Standard,19,64.88,189,30.14,33.82,7,Debit Card,9,Billing,0
+356,62,Male,Rural,Standard,55,111.32,46,32.71,9.5,3,Credit Card,2,General,0
+357,68,Male,Urban,Standard,26,38.94,188,49.91,40.94,3,Debit Card,7,None,0
+358,25,Female,Suburban,Standard,6,20.5,255,3.75,5.83,1,Credit Card,5,Technical,0
+359,44,Male,Rural,Basic,4,26.01,221,11.15,32.8,4,Debit Card,6,Billing,0
+360,44,Male,Suburban,Standard,29,110.48,240,20.39,17.06,0,Debit Card,1,None,1
+361,51,Female,Urban,Basic,59,84.75,268,17.39,37.38,8,Debit Card,5,Technical,0
+362,38,Male,Rural,Basic,17,47.3,0,1.08,27.49,4,Credit Card,7,Billing,0
+363,47,Male,Urban,Standard,43,37.72,33,4.59,22.62,5,Debit Card,7,Technical,0
+364,50,Male,Urban,Standard,66,49.43,78,34.05,8.47,1,Cash,3,Technical,0
+365,45,Male,Suburban,Basic,34,31.48,235,43.97,31.84,9,Cash,5,None,0
+366,64,Male,Rural,Standard,8,114.15,97,25.71,48.74,9,Cash,4,Technical,1
+367,50,Male,Urban,Standard,13,98.42,81,26.96,41.28,0,Credit Card,8,Billing,0
+368,22,Female,Urban,Standard,8,66.24,191,12.75,3.0,3,Credit Card,7,None,1
+369,65,Female,Rural,Premium,65,106.5,252,38.39,18.81,6,Cash,1,General,0
+370,36,Male,Urban,Basic,43,44.95,37,37.59,46.28,5,Cash,6,General,0
+371,21,Male,Urban,Premium,39,91.71,13,29.42,25.15,9,Cash,6,None,0
+372,52,Female,Rural,Standard,59,105.61,208,10.63,33.11,0,Bank Transfer,0,General,0
+373,66,Male,Rural,Premium,44,55.68,88,4.85,45.63,0,Cash,0,Technical,0
+374,34,Male,Rural,Standard,9,95.75,55,3.21,43.69,7,Debit Card,3,Billing,1
+375,61,Male,Rural,Premium,37,49.51,93,29.63,25.09,3,Bank Transfer,4,Technical,0
+376,45,Female,Suburban,Standard,36,49.89,92,41.25,21.88,4,Bank Transfer,3,None,1
+377,47,Male,Rural,Premium,28,30.71,84,42.92,16.98,6,Credit Card,6,Billing,1
+378,46,Female,Suburban,Premium,42,64.01,244,23.18,35.95,7,Debit Card,2,None,1
+379,63,Male,Suburban,Premium,43,92.97,21,39.21,14.35,9,Credit Card,6,None,0
+380,23,Female,Suburban,Basic,42,114.02,290,47.34,12.49,6,Credit Card,7,None,0
+381,52,Female,Urban,Premium,66,80.38,271,13.76,17.81,1,Debit Card,5,Technical,0
+382,58,Male,Suburban,Basic,55,106.31,121,19.9,8.86,3,Credit Card,5,Billing,0
+383,54,Female,Suburban,Standard,48,102.25,127,46.57,34.76,9,Debit Card,7,Billing,0
+384,41,Male,Urban,Premium,22,37.33,112,16.91,30.81,0,Debit Card,7,Billing,0
+385,46,Female,Urban,Standard,27,68.58,272,45.69,24.14,9,Credit Card,6,Technical,0
+386,66,Male,Urban,Standard,67,31.69,129,49.05,19.52,8,Cash,5,General,1
+387,63,Male,Rural,Premium,13,88.22,131,33.09,45.45,2,Credit Card,5,Technical,1
+388,48,Female,Urban,Basic,45,114.99,84,40.84,1.46,2,Bank Transfer,9,Technical,0
+389,52,Male,Urban,Premium,10,33.71,80,37.48,38.46,9,Credit Card,5,None,0
+390,50,Male,Suburban,Standard,9,93.39,68,34.98,45.1,8,Debit Card,7,Billing,0
+391,69,Female,Urban,Standard,54,83.22,147,15.35,22.32,9,Bank Transfer,0,Billing,0
+392,38,Male,Rural,Premium,27,78.36,15,2.85,27.53,2,Debit Card,4,General,0
+393,49,Male,Urban,Basic,34,59.01,104,17.15,47.22,7,Cash,2,General,0
+394,40,Female,Rural,Basic,1,55.51,164,33.35,10.61,1,Cash,7,None,0
+395,50,Female,Urban,Standard,32,24.52,200,5.13,26.01,2,Bank Transfer,5,Billing,0
+396,20,Male,Urban,Standard,71,41.79,196,0.6,23.74,1,Cash,1,General,0
+397,35,Male,Urban,Basic,67,21.52,184,6.98,12.92,0,Cash,6,General,0
+398,42,Female,Urban,Premium,20,78.14,264,35.79,40.93,1,Credit Card,6,Billing,1
+399,59,Female,Rural,Standard,35,30.59,99,48.64,44.98,7,Credit Card,4,Technical,0
+400,48,Male,Rural,Basic,17,107.3,213,49.15,39.1,8,Cash,7,General,0
+401,20,Female,Suburban,Standard,18,72.31,277,24.7,9.77,1,Cash,4,Billing,0
+402,57,Male,Rural,Premium,45,89.97,161,43.47,4.34,6,Credit Card,0,General,0
+403,63,Male,Urban,Basic,53,61.09,156,36.84,30.27,4,Cash,8,None,0
+404,41,Male,Suburban,Standard,68,76.06,250,25.05,2.85,2,Cash,3,General,0
+405,67,Male,Suburban,Premium,65,114.27,96,28.64,33.64,8,Debit Card,1,Billing,0
+406,49,Male,Suburban,Standard,1,28.27,17,6.86,26.52,5,Cash,3,General,0
+407,64,Female,Urban,Premium,58,45.39,96,46.88,33.14,0,Bank Transfer,8,None,0
+408,39,Female,Rural,Premium,26,98.0,0,17.6,29.51,4,Debit Card,1,None,0
+409,40,Female,Urban,Basic,20,29.87,215,22.31,21.14,6,Bank Transfer,3,General,0
+410,19,Female,Suburban,Premium,10,27.57,131,33.58,10.04,3,Cash,1,General,0
+411,44,Male,Urban,Standard,59,56.15,259,16.7,15.29,7,Credit Card,4,None,0
+412,59,Male,Urban,Premium,41,29.22,124,12.71,26.23,9,Debit Card,2,None,1
+413,19,Male,Rural,Premium,5,78.51,81,31.55,32.59,4,Credit Card,9,Technical,1
+414,43,Male,Rural,Basic,65,42.63,282,1.25,38.97,8,Debit Card,1,Technical,0
+415,34,Female,Suburban,Premium,17,109.57,170,36.04,38.36,8,Credit Card,8,None,1
+416,57,Male,Urban,Premium,22,98.35,58,25.7,48.63,8,Debit Card,4,General,0
+417,50,Male,Urban,Standard,41,89.97,31,30.29,14.29,0,Debit Card,9,Billing,1
+418,26,Female,Rural,Basic,68,81.69,160,31.59,3.56,1,Bank Transfer,4,General,0
+419,60,Female,Urban,Basic,69,106.35,283,26.35,17.28,2,Credit Card,0,General,0
+420,65,Female,Urban,Basic,11,42.31,105,29.13,37.16,3,Bank Transfer,5,Technical,1
+421,56,Female,Urban,Premium,56,107.31,104,34.19,21.91,9,Bank Transfer,6,Technical,0
+422,46,Male,Rural,Basic,51,98.95,227,37.66,40.89,8,Credit Card,0,Technical,0
+423,59,Male,Suburban,Premium,21,94.82,187,36.37,27.47,9,Debit Card,8,None,0
+424,43,Female,Suburban,Premium,26,76.13,69,43.48,46.49,5,Bank Transfer,7,None,0
+425,52,Male,Urban,Standard,19,44.62,289,9.47,47.39,0,Credit Card,7,General,0
+426,67,Male,Suburban,Standard,60,62.35,86,20.06,3.47,8,Debit Card,6,General,0
+427,42,Male,Rural,Standard,71,99.36,55,47.39,22.82,5,Bank Transfer,4,Billing,1
+428,41,Female,Rural,Standard,47,23.18,112,19.83,30.48,3,Bank Transfer,2,General,0
+429,30,Male,Suburban,Standard,71,98.21,12,6.24,12.79,3,Bank Transfer,8,General,1
+430,24,Female,Suburban,Premium,26,44.01,17,26.27,20.35,2,Debit Card,6,Technical,1
+431,53,Male,Urban,Premium,40,34.43,181,5.47,33.88,6,Bank Transfer,9,Technical,0
+432,62,Male,Suburban,Basic,5,31.57,112,10.14,11.34,2,Debit Card,9,Technical,0
+433,37,Male,Urban,Premium,21,22.73,228,49.92,30.1,1,Cash,7,Technical,1
+434,18,Female,Urban,Premium,4,72.36,170,27.07,34.87,9,Bank Transfer,5,Technical,0
+435,25,Male,Rural,Standard,23,41.83,294,14.2,4.52,7,Cash,4,Billing,0
+436,63,Female,Rural,Premium,15,118.94,188,49.74,24.88,3,Credit Card,7,Billing,0
+437,33,Female,Rural,Standard,8,77.44,78,48.33,13.15,7,Bank Transfer,2,Billing,0
+438,31,Female,Rural,Basic,41,33.79,145,22.04,36.22,0,Credit Card,6,Technical,0
+439,29,Male,Suburban,Basic,19,88.88,181,13.02,9.48,4,Credit Card,1,None,0
+440,68,Male,Rural,Premium,46,109.77,285,41.92,44.61,8,Credit Card,2,Technical,0
+441,40,Male,Suburban,Basic,28,94.52,249,35.78,21.55,0,Cash,1,Technical,0
+442,32,Male,Rural,Premium,68,27.64,195,34.35,9.9,3,Debit Card,4,Billing,1
+443,45,Female,Suburban,Basic,15,109.59,70,44.66,21.9,5,Cash,6,Technical,0
+444,51,Female,Urban,Standard,37,99.39,247,34.47,20.44,9,Cash,9,Billing,1
+445,19,Female,Suburban,Standard,1,35.83,145,14.19,21.45,7,Credit Card,9,Technical,0
+446,49,Male,Suburban,Standard,67,25.18,105,34.69,29.28,2,Bank Transfer,0,General,0
+447,40,Female,Rural,Standard,24,75.73,262,15.29,26.06,4,Debit Card,9,None,0
+448,39,Male,Suburban,Premium,27,35.6,295,37.96,7.49,6,Credit Card,8,None,1
+449,68,Female,Urban,Basic,40,103.46,69,30.99,3.28,0,Debit Card,0,Billing,0
+450,42,Male,Urban,Premium,63,55.83,192,3.87,36.47,6,Cash,0,General,0
+451,39,Male,Rural,Standard,61,111.29,67,25.64,27.99,7,Debit Card,9,None,1
+452,39,Female,Urban,Premium,36,76.57,51,17.17,17.95,7,Debit Card,7,Billing,0
+453,66,Female,Suburban,Basic,24,38.27,284,16.43,40.42,8,Bank Transfer,5,Technical,0
+454,69,Female,Urban,Premium,24,33.96,8,30.11,19.4,5,Credit Card,5,Technical,0
+455,59,Female,Rural,Basic,4,77.65,250,16.12,39.8,5,Debit Card,8,General,1
+456,23,Male,Suburban,Premium,67,96.19,297,38.84,15.29,1,Debit Card,3,None,0
+457,32,Female,Rural,Basic,34,98.15,183,3.54,3.64,2,Cash,7,Technical,0
+458,60,Female,Suburban,Basic,57,47.58,178,33.02,46.63,3,Cash,3,Billing,1
+459,54,Female,Urban,Standard,49,40.42,197,40.46,19.73,3,Debit Card,1,Technical,0
+460,50,Male,Rural,Basic,53,21.68,127,33.64,39.63,7,Credit Card,7,Technical,0
+461,25,Male,Rural,Standard,23,87.92,19,24.86,13.96,0,Debit Card,6,None,0
+462,61,Female,Suburban,Standard,69,27.66,64,47.52,32.32,9,Debit Card,3,None,0
+463,61,Male,Rural,Standard,53,62.08,181,15.0,43.67,3,Bank Transfer,8,Billing,0
+464,22,Female,Suburban,Premium,62,80.17,240,0.96,2.08,3,Credit Card,8,General,1
+465,56,Male,Suburban,Premium,41,113.71,23,21.6,41.53,0,Bank Transfer,7,General,0
+466,21,Male,Suburban,Premium,57,51.18,82,1.65,28.57,2,Credit Card,0,Technical,0
+467,23,Male,Suburban,Premium,60,44.98,184,47.7,30.37,4,Credit Card,6,Billing,0
+468,62,Male,Urban,Basic,54,85.42,98,10.5,26.16,5,Credit Card,4,General,0
+469,49,Female,Suburban,Basic,70,81.92,61,39.45,43.72,8,Bank Transfer,6,General,0
+470,69,Female,Rural,Premium,57,53.21,285,38.73,2.17,8,Bank Transfer,8,Technical,0
+471,47,Female,Urban,Basic,10,112.81,21,10.89,13.05,8,Bank Transfer,1,Billing,0
+472,64,Male,Rural,Basic,40,104.49,211,31.06,43.79,0,Cash,3,General,0
+473,52,Female,Urban,Standard,7,42.4,125,2.4,37.62,8,Bank Transfer,3,None,0
+474,57,Female,Suburban,Standard,38,43.91,41,24.18,0.88,7,Cash,1,None,0
+475,69,Female,Urban,Standard,61,71.23,97,0.73,25.85,1,Cash,2,Technical,1
+476,33,Male,Urban,Standard,3,97.36,30,46.06,26.48,0,Cash,7,Technical,0
+477,30,Male,Rural,Basic,51,24.4,157,48.8,20.04,0,Debit Card,8,Technical,0
+478,67,Male,Rural,Premium,47,89.33,111,11.11,14.87,5,Debit Card,5,Technical,1
+479,59,Female,Suburban,Basic,68,84.82,246,10.41,34.09,8,Debit Card,9,General,0
+480,47,Female,Urban,Basic,38,43.15,121,37.69,10.39,6,Cash,1,Billing,0
+481,36,Female,Urban,Basic,36,88.14,272,12.67,39.95,4,Cash,1,Technical,0
+482,34,Male,Urban,Standard,41,114.02,293,44.75,40.15,1,Credit Card,6,Technical,0
+483,36,Male,Suburban,Standard,69,24.68,206,28.7,20.76,0,Cash,7,General,0
+484,45,Female,Suburban,Standard,13,51.97,109,17.54,14.18,1,Debit Card,7,Technical,1
+485,43,Male,Suburban,Premium,58,63.82,277,41.63,14.19,0,Cash,5,Technical,0
+486,54,Male,Suburban,Basic,50,109.93,55,24.67,24.11,2,Cash,9,Billing,0
+487,43,Male,Suburban,Premium,30,116.23,56,45.58,35.98,5,Credit Card,7,None,0
+488,40,Male,Rural,Standard,62,64.41,290,46.4,17.94,7,Cash,0,Technical,1
+489,26,Female,Urban,Premium,25,95.0,113,8.27,30.5,2,Bank Transfer,8,General,0
+490,29,Male,Urban,Basic,27,73.17,197,0.12,19.12,9,Credit Card,0,Billing,1
+491,18,Male,Urban,Basic,51,73.78,178,49.2,15.23,8,Cash,2,General,0
+492,18,Male,Urban,Standard,57,47.81,218,45.31,1.24,9,Cash,8,Billing,0
+493,64,Male,Urban,Standard,47,41.7,276,2.77,0.2,4,Credit Card,4,Billing,0
+494,51,Female,Urban,Premium,39,48.8,15,41.65,11.36,6,Cash,8,Technical,0
+495,49,Female,Urban,Standard,16,75.63,60,22.89,20.32,7,Debit Card,8,Technical,0
+496,65,Male,Urban,Standard,22,22.92,53,12.95,42.56,2,Bank Transfer,5,Technical,0
+497,42,Male,Rural,Basic,54,110.72,167,43.94,39.92,1,Bank Transfer,0,None,0
+498,57,Male,Urban,Standard,21,35.63,25,9.83,13.36,1,Debit Card,9,None,0
+499,62,Male,Rural,Standard,16,42.01,64,47.36,12.23,4,Cash,6,General,1
+500,18,Male,Suburban,Basic,59,71.83,99,10.28,11.37,0,Cash,5,Technical,1
+501,33,Male,Urban,Basic,31,91.01,73,30.68,16.96,1,Bank Transfer,8,None,0
+502,56,Female,Suburban,Premium,42,29.57,191,11.15,24.91,8,Cash,6,Technical,0
+503,22,Male,Suburban,Standard,32,51.77,170,27.28,21.93,6,Bank Transfer,3,None,0
+504,39,Female,Suburban,Basic,59,116.87,272,34.2,10.91,5,Bank Transfer,6,None,0
+505,46,Female,Rural,Premium,34,46.23,186,9.51,6.52,8,Debit Card,1,Billing,1
+506,20,Male,Suburban,Premium,9,51.31,22,26.04,0.63,6,Bank Transfer,5,Technical,0
+507,29,Female,Suburban,Standard,11,103.65,180,23.45,7.7,4,Cash,5,Technical,1
+508,43,Female,Suburban,Standard,10,25.02,107,3.55,35.27,8,Cash,1,None,1
+509,33,Female,Urban,Premium,17,66.46,161,40.92,12.18,5,Credit Card,3,Technical,1
+510,68,Female,Urban,Basic,68,57.96,205,16.78,23.43,5,Cash,7,None,0
+511,54,Female,Rural,Premium,48,51.66,77,28.73,29.57,3,Credit Card,7,Technical,0
+512,39,Female,Rural,Standard,52,48.57,15,25.74,44.34,0,Bank Transfer,7,Billing,0
+513,46,Male,Urban,Basic,25,29.14,95,25.66,44.44,4,Cash,7,Technical,0
+514,31,Female,Rural,Basic,21,51.48,146,5.36,37.29,8,Debit Card,0,Billing,0
+515,45,Female,Urban,Premium,65,24.31,1,21.17,1.76,7,Debit Card,1,General,0
+516,22,Female,Suburban,Standard,63,98.1,9,22.62,28.75,7,Debit Card,3,Technical,0
+517,64,Male,Suburban,Premium,51,59.82,124,36.68,39.33,4,Bank Transfer,8,Technical,0
+518,66,Female,Rural,Premium,36,64.39,80,42.0,0.86,8,Bank Transfer,2,Technical,0
+519,47,Male,Urban,Premium,66,109.36,139,27.25,27.48,2,Credit Card,5,Billing,0
+520,63,Female,Urban,Basic,15,85.81,149,4.34,42.89,2,Debit Card,6,Technical,0
+521,69,Male,Rural,Basic,39,20.81,287,11.84,23.71,0,Credit Card,7,Technical,0
+522,22,Male,Urban,Standard,70,114.32,128,8.25,0.21,8,Credit Card,6,None,0
+523,29,Female,Suburban,Standard,1,43.71,238,6.23,0.55,5,Cash,2,General,0
+524,33,Female,Rural,Premium,23,30.76,57,18.29,20.83,1,Cash,5,Billing,0
+525,43,Male,Rural,Premium,39,96.81,197,11.47,7.75,7,Debit Card,4,None,0
+526,43,Female,Urban,Premium,57,70.05,210,10.92,33.22,8,Bank Transfer,9,Billing,0
+527,65,Male,Rural,Standard,34,63.38,44,2.73,35.44,8,Cash,3,None,0
+528,38,Male,Urban,Basic,41,44.95,96,0.88,8.89,1,Bank Transfer,0,General,0
+529,56,Male,Urban,Basic,13,74.75,278,5.14,44.43,1,Credit Card,6,None,0
+530,53,Male,Urban,Premium,70,47.44,22,8.61,22.1,6,Credit Card,7,Billing,0
+531,50,Male,Urban,Premium,6,110.16,43,21.55,7.14,3,Credit Card,1,Technical,0
+532,47,Female,Urban,Premium,52,41.52,26,25.53,38.21,0,Credit Card,6,Technical,1
+533,54,Male,Rural,Premium,3,108.44,281,7.03,39.5,7,Debit Card,5,General,0
+534,40,Male,Suburban,Standard,63,75.94,96,21.24,31.96,1,Credit Card,4,Billing,1
+535,27,Female,Suburban,Basic,49,102.85,35,17.09,42.67,2,Cash,3,Billing,0
+536,22,Male,Rural,Premium,47,91.28,108,9.17,36.87,4,Credit Card,1,Billing,0
+537,53,Female,Rural,Standard,55,89.67,54,0.34,44.11,2,Bank Transfer,9,General,0
+538,51,Female,Suburban,Premium,64,52.43,191,23.35,21.69,6,Cash,5,Technical,0
+539,69,Female,Suburban,Premium,65,43.39,218,34.28,37.38,6,Bank Transfer,4,None,0
+540,48,Male,Suburban,Basic,67,41.09,184,11.31,49.99,1,Bank Transfer,1,General,0
+541,27,Male,Suburban,Premium,15,105.72,68,6.59,36.25,6,Debit Card,9,None,0
+542,36,Male,Suburban,Basic,32,102.04,129,44.35,5.71,5,Debit Card,6,Technical,0
+543,49,Female,Urban,Basic,68,64.06,54,13.75,25.92,9,Bank Transfer,5,General,0
+544,18,Male,Rural,Basic,18,33.24,96,11.18,29.37,8,Bank Transfer,8,Technical,1
+545,22,Female,Urban,Standard,43,58.23,86,42.85,8.71,8,Credit Card,9,None,0
+546,62,Male,Suburban,Standard,35,81.93,293,40.86,48.14,1,Cash,4,Billing,0
+547,21,Female,Suburban,Basic,58,65.44,118,22.42,8.78,6,Credit Card,8,Billing,0
+548,33,Male,Suburban,Premium,33,98.02,207,24.46,8.88,4,Debit Card,8,None,0
+549,41,Male,Urban,Basic,14,119.76,153,10.89,45.76,5,Debit Card,0,Billing,1
+550,33,Male,Urban,Premium,34,39.11,34,3.92,23.26,0,Credit Card,4,None,0
+551,19,Female,Suburban,Basic,61,65.97,78,28.67,3.16,6,Cash,8,General,0
+552,66,Female,Urban,Premium,4,63.1,66,4.92,29.91,5,Bank Transfer,6,General,0
+553,45,Male,Urban,Standard,59,50.45,33,22.46,30.09,3,Credit Card,5,General,0
+554,49,Male,Suburban,Premium,29,39.81,96,47.02,3.23,0,Debit Card,5,Billing,0
+555,44,Female,Urban,Basic,6,26.57,168,47.64,48.63,8,Cash,6,Technical,1
+556,37,Female,Rural,Standard,49,108.71,168,11.97,27.2,3,Debit Card,0,Billing,0
+557,41,Female,Rural,Premium,40,61.98,150,31.21,27.99,1,Cash,3,Billing,1
+558,29,Male,Rural,Premium,65,69.69,70,23.7,26.01,7,Cash,0,Technical,1
+559,67,Female,Rural,Premium,69,111.69,2,43.78,30.54,1,Cash,5,Technical,0
+560,52,Male,Suburban,Premium,27,97.63,31,13.57,13.21,4,Credit Card,3,Technical,0
+561,50,Female,Suburban,Premium,6,33.05,286,0.19,14.36,5,Credit Card,0,Technical,0
+562,50,Male,Suburban,Standard,13,76.54,81,8.13,25.57,7,Credit Card,8,Billing,0
+563,68,Female,Rural,Standard,64,64.23,42,17.48,40.33,0,Cash,3,None,0
+564,60,Female,Rural,Standard,62,99.72,104,15.79,2.49,0,Cash,5,General,1
+565,54,Female,Urban,Standard,19,92.42,0,39.57,30.17,3,Debit Card,6,None,0
+566,29,Female,Urban,Basic,43,89.04,60,34.03,40.34,4,Bank Transfer,7,Billing,0
+567,20,Female,Rural,Standard,20,54.05,269,14.98,7.85,8,Credit Card,8,Technical,0
+568,18,Male,Rural,Premium,68,100.5,179,22.89,0.75,6,Cash,8,General,0
+569,50,Female,Rural,Premium,44,25.24,223,4.78,15.64,6,Debit Card,7,General,1
+570,57,Female,Rural,Standard,23,35.96,5,44.91,29.41,7,Debit Card,9,None,0
+571,27,Female,Urban,Premium,2,53.56,102,46.77,6.91,4,Debit Card,2,Billing,0
+572,60,Male,Rural,Standard,22,27.68,9,48.99,21.31,4,Credit Card,1,Billing,0
+573,61,Female,Urban,Premium,57,43.5,70,43.43,27.62,0,Credit Card,4,Billing,1
+574,46,Male,Rural,Basic,7,103.02,89,8.7,29.94,8,Bank Transfer,0,General,0
+575,30,Female,Rural,Basic,56,114.83,225,2.31,13.72,5,Debit Card,2,None,1
+576,29,Female,Rural,Standard,67,50.46,157,28.98,20.0,8,Credit Card,0,General,0
+577,48,Male,Urban,Standard,16,46.45,227,45.63,38.92,2,Debit Card,2,General,0
+578,63,Female,Urban,Standard,51,47.99,125,8.87,47.06,4,Cash,3,Technical,0
+579,19,Male,Suburban,Premium,12,47.77,208,0.35,43.09,1,Debit Card,6,None,0
+580,68,Male,Rural,Standard,53,23.59,96,40.27,28.21,9,Bank Transfer,4,Technical,0
+581,67,Female,Suburban,Basic,5,112.69,73,3.84,20.51,4,Credit Card,4,Billing,0
+582,52,Male,Suburban,Premium,27,41.37,114,20.69,16.65,7,Cash,0,General,0
+583,40,Female,Urban,Standard,12,62.0,190,33.94,6.25,1,Credit Card,7,None,0
+584,34,Female,Urban,Premium,17,20.97,169,11.84,5.33,7,Cash,3,Billing,0
+585,43,Male,Suburban,Premium,6,105.8,203,4.2,34.42,3,Debit Card,9,None,0
+586,25,Male,Rural,Standard,5,93.12,55,38.5,12.99,9,Debit Card,4,General,0
+587,46,Male,Urban,Premium,57,114.68,207,31.51,12.73,9,Bank Transfer,1,None,0
+588,43,Male,Rural,Basic,28,98.16,40,49.42,49.91,0,Bank Transfer,0,Billing,0
+589,27,Female,Rural,Basic,69,51.37,31,17.22,9.4,4,Cash,8,Technical,0
+590,43,Female,Suburban,Premium,59,44.79,14,3.09,7.4,0,Bank Transfer,1,General,0
+591,51,Male,Suburban,Standard,33,89.77,61,36.72,4.93,6,Bank Transfer,5,Technical,1
+592,68,Female,Suburban,Premium,62,56.41,154,26.09,28.99,7,Bank Transfer,0,General,0
+593,58,Female,Suburban,Basic,50,76.62,283,10.66,31.39,2,Bank Transfer,0,Billing,0
+594,24,Female,Urban,Premium,19,20.63,208,39.09,18.26,2,Debit Card,8,General,1
+595,21,Female,Urban,Premium,69,26.19,186,10.19,26.77,6,Bank Transfer,3,Technical,1
+596,67,Male,Suburban,Basic,66,73.54,129,13.03,39.42,3,Debit Card,8,General,0
+597,62,Male,Urban,Premium,47,76.61,126,4.63,40.91,2,Debit Card,4,Billing,1
+598,28,Female,Suburban,Premium,39,95.15,291,19.97,47.9,7,Credit Card,6,General,0
+599,46,Male,Rural,Standard,68,33.2,113,20.95,41.21,2,Debit Card,0,Technical,0
+600,53,Male,Rural,Standard,33,71.32,198,25.73,28.24,6,Debit Card,5,Billing,0
+601,42,Male,Rural,Basic,13,39.44,12,35.45,8.98,1,Bank Transfer,7,Technical,0
+602,38,Female,Suburban,Basic,54,29.32,270,45.31,4.99,0,Debit Card,0,General,0
+603,53,Female,Rural,Basic,7,61.05,88,6.89,2.73,5,Cash,8,None,1
+604,27,Female,Urban,Standard,14,36.33,214,2.72,33.33,7,Bank Transfer,2,Technical,1
+605,54,Male,Rural,Basic,19,42.18,277,0.93,40.38,0,Bank Transfer,0,General,0
+606,26,Female,Rural,Basic,54,51.76,202,7.18,25.43,9,Bank Transfer,0,None,0
+607,41,Female,Rural,Basic,20,45.94,73,32.9,2.74,8,Credit Card,5,None,0
+608,52,Male,Urban,Standard,29,28.76,24,36.37,26.77,2,Bank Transfer,5,Billing,0
+609,66,Female,Suburban,Premium,24,28.99,100,39.33,46.79,2,Debit Card,0,None,0
+610,52,Female,Urban,Basic,63,39.32,175,12.19,29.88,3,Cash,2,Technical,0
+611,65,Male,Suburban,Premium,57,25.06,116,15.29,40.47,0,Bank Transfer,6,Technical,1
+612,53,Male,Suburban,Basic,8,82.65,165,24.16,40.01,8,Bank Transfer,9,None,0
+613,35,Male,Rural,Premium,62,48.73,40,3.16,46.61,2,Cash,2,General,0
+614,66,Female,Suburban,Standard,29,47.97,119,30.56,38.51,9,Bank Transfer,2,Technical,0
+615,56,Female,Urban,Standard,17,53.2,96,49.19,37.39,3,Credit Card,2,Technical,0
+616,49,Female,Urban,Basic,66,86.28,144,18.04,11.71,0,Debit Card,6,Billing,1
+617,41,Male,Suburban,Premium,6,107.06,215,37.64,3.0,3,Cash,3,General,0
+618,40,Male,Rural,Standard,58,95.91,228,25.0,25.88,0,Cash,3,None,0
+619,49,Female,Rural,Basic,69,92.75,129,6.39,6.22,4,Credit Card,2,General,0
+620,54,Female,Urban,Basic,28,68.44,136,29.11,48.11,4,Debit Card,9,Billing,0
+621,29,Male,Rural,Standard,62,89.38,272,14.99,14.5,6,Credit Card,8,Billing,0
+622,66,Male,Suburban,Standard,41,75.28,116,1.72,42.65,7,Debit Card,1,General,0
+623,30,Male,Suburban,Basic,69,41.63,93,31.75,19.38,3,Credit Card,3,Billing,0
+624,40,Male,Urban,Premium,41,40.86,167,42.95,16.16,6,Bank Transfer,7,Billing,0
+625,42,Female,Suburban,Premium,49,49.64,202,17.24,46.76,3,Credit Card,5,Billing,0
+626,52,Male,Urban,Premium,49,111.08,148,19.51,18.17,2,Cash,6,General,0
+627,58,Female,Suburban,Basic,71,74.74,182,44.55,19.51,5,Cash,6,Billing,0
+628,47,Female,Urban,Standard,3,93.39,151,40.68,5.3,3,Cash,1,None,0
+629,34,Female,Rural,Basic,10,54.66,73,35.75,33.52,2,Credit Card,3,None,1
+630,66,Male,Suburban,Standard,35,60.77,273,12.44,14.44,8,Cash,9,Technical,0
+631,37,Male,Suburban,Premium,2,32.56,41,45.51,29.28,4,Cash,9,None,0
+632,65,Male,Urban,Premium,24,37.13,211,7.72,29.57,6,Bank Transfer,5,Technical,0
+633,42,Male,Urban,Standard,38,102.74,100,31.34,35.96,5,Bank Transfer,2,General,0
+634,39,Female,Suburban,Standard,22,78.48,44,1.44,37.26,9,Debit Card,8,Billing,0
+635,30,Male,Urban,Basic,26,53.75,81,32.19,25.72,4,Debit Card,3,None,1
+636,36,Male,Suburban,Premium,43,100.29,16,13.86,16.55,6,Debit Card,9,Technical,0
+637,66,Female,Rural,Basic,55,44.65,72,22.48,41.87,5,Credit Card,1,General,0
+638,53,Male,Urban,Basic,39,117.6,13,17.26,15.49,9,Debit Card,5,Technical,0
+639,29,Female,Suburban,Basic,29,54.48,156,8.64,25.38,1,Credit Card,0,Billing,1
+640,58,Female,Rural,Premium,20,53.73,222,31.1,20.06,2,Credit Card,5,None,0
+641,36,Female,Rural,Basic,41,51.19,131,44.1,42.75,1,Debit Card,9,General,0
+642,29,Female,Suburban,Basic,54,32.21,46,47.95,21.6,2,Debit Card,0,Technical,1
+643,26,Female,Urban,Basic,20,31.11,106,9.62,19.3,0,Credit Card,7,General,0
+644,24,Female,Suburban,Basic,19,84.81,107,35.87,34.49,7,Bank Transfer,4,Technical,0
+645,45,Female,Rural,Basic,66,107.51,264,33.22,30.12,5,Cash,5,Technical,0
+646,31,Female,Suburban,Basic,30,99.05,204,17.17,5.36,1,Cash,1,Billing,0
+647,48,Male,Urban,Premium,53,34.11,78,0.95,25.41,7,Cash,1,Billing,0
+648,69,Male,Rural,Basic,34,74.56,154,34.49,36.77,5,Bank Transfer,8,Technical,0
+649,36,Male,Suburban,Standard,22,30.56,270,47.27,49.6,6,Credit Card,2,None,0
+650,64,Male,Urban,Basic,67,24.53,246,31.61,31.46,0,Debit Card,5,General,1
+651,33,Female,Rural,Basic,6,85.64,18,21.76,18.51,6,Credit Card,9,General,1
+652,22,Male,Urban,Premium,27,73.52,25,26.26,11.31,2,Credit Card,4,Billing,0
+653,52,Female,Rural,Premium,10,28.2,216,9.98,43.64,7,Debit Card,3,None,0
+654,29,Male,Suburban,Standard,48,23.49,153,37.53,40.73,5,Bank Transfer,9,Technical,0
+655,42,Male,Urban,Standard,70,118.98,153,37.32,11.7,3,Cash,1,Billing,0
+656,69,Male,Rural,Premium,59,23.0,173,7.28,10.03,7,Cash,7,Technical,0
+657,38,Female,Urban,Premium,59,64.45,91,43.9,35.76,8,Credit Card,9,Technical,0
+658,53,Male,Urban,Basic,2,70.46,180,13.46,15.75,9,Bank Transfer,6,Billing,0
+659,40,Female,Suburban,Premium,29,31.73,130,49.11,15.32,1,Cash,1,None,0
+660,33,Female,Urban,Standard,68,36.91,297,19.15,7.61,5,Bank Transfer,5,General,0
+661,56,Male,Rural,Basic,65,55.18,274,8.89,13.2,4,Debit Card,7,Billing,0
+662,62,Male,Rural,Standard,26,96.17,272,17.59,21.38,4,Credit Card,6,None,0
+663,59,Male,Rural,Basic,10,70.71,75,22.01,36.64,9,Credit Card,0,Technical,0
+664,56,Female,Rural,Premium,53,83.79,176,3.47,16.82,2,Bank Transfer,4,Billing,0
+665,31,Male,Suburban,Standard,59,118.52,183,28.91,16.43,7,Cash,1,General,0
+666,48,Female,Urban,Basic,22,96.8,130,29.88,14.25,7,Bank Transfer,5,General,0
+667,22,Female,Suburban,Basic,51,63.44,48,36.95,23.91,4,Debit Card,6,Technical,0
+668,52,Male,Urban,Premium,48,64.64,54,1.46,9.03,7,Cash,6,Billing,0
+669,40,Male,Urban,Premium,21,81.88,153,27.06,24.28,9,Cash,2,General,0
+670,46,Female,Urban,Premium,22,86.54,199,2.65,35.21,7,Bank Transfer,6,Billing,1
+671,60,Female,Suburban,Standard,30,70.07,117,35.06,1.49,2,Debit Card,4,General,0
+672,28,Female,Urban,Basic,25,84.49,262,2.79,0.49,1,Cash,7,Technical,0
+673,35,Male,Suburban,Premium,28,22.35,45,45.59,3.76,8,Credit Card,7,Technical,0
+674,64,Female,Rural,Standard,65,62.96,188,35.1,26.78,1,Debit Card,6,Billing,1
+675,29,Male,Rural,Standard,45,47.89,128,25.37,42.72,8,Cash,5,None,0
+676,26,Female,Urban,Standard,68,32.92,48,22.08,0.24,3,Bank Transfer,1,None,0
+677,27,Female,Suburban,Premium,7,29.95,24,6.53,46.83,1,Cash,5,Technical,0
+678,61,Male,Rural,Premium,49,80.32,265,14.55,5.31,9,Credit Card,8,General,0
+679,34,Female,Suburban,Basic,9,72.36,117,43.45,42.1,0,Debit Card,1,None,0
+680,55,Male,Suburban,Basic,36,45.36,143,45.22,24.14,3,Cash,0,Technical,0
+681,24,Male,Urban,Premium,1,67.1,199,0.04,32.97,8,Credit Card,4,General,1
+682,63,Female,Rural,Standard,10,69.22,156,29.71,25.53,8,Cash,5,General,0
+683,30,Male,Urban,Standard,36,39.5,133,35.97,23.85,3,Cash,2,None,1
+684,57,Male,Urban,Standard,46,85.21,147,30.94,41.74,8,Debit Card,7,Technical,0
+685,59,Female,Rural,Basic,32,98.09,70,4.08,37.79,5,Bank Transfer,6,General,1
+686,26,Male,Rural,Standard,32,99.15,232,10.89,24.17,0,Bank Transfer,1,General,0
+687,67,Male,Suburban,Basic,6,80.25,298,12.52,5.58,9,Credit Card,6,Billing,0
+688,44,Male,Rural,Basic,48,71.16,153,41.59,5.77,5,Credit Card,0,Billing,1
+689,19,Female,Suburban,Standard,38,26.1,89,23.16,40.08,8,Credit Card,8,None,1
+690,22,Male,Suburban,Standard,17,48.78,198,24.34,26.47,1,Debit Card,6,Billing,0
+691,46,Female,Suburban,Premium,27,29.33,160,46.74,24.08,5,Bank Transfer,5,Technical,0
+692,54,Female,Rural,Premium,54,116.38,25,31.85,34.03,1,Credit Card,1,None,1
+693,55,Male,Urban,Standard,50,33.51,120,44.93,42.94,3,Credit Card,2,None,0
+694,36,Male,Suburban,Basic,35,35.18,211,22.83,31.44,7,Cash,0,Billing,0
+695,25,Male,Urban,Basic,25,108.96,62,7.47,38.14,6,Cash,9,General,1
+696,65,Female,Urban,Basic,28,114.39,67,46.5,38.26,8,Credit Card,4,Technical,0
+697,62,Male,Rural,Basic,15,96.58,252,22.94,17.81,6,Cash,8,Technical,0
+698,18,Male,Urban,Basic,4,20.54,1,9.08,13.7,0,Cash,5,Technical,0
+699,39,Male,Urban,Premium,27,20.13,107,15.12,40.06,1,Cash,4,None,0
+700,69,Male,Rural,Standard,26,57.81,285,2.54,18.86,5,Debit Card,2,Technical,0
+701,34,Male,Suburban,Premium,19,34.34,48,23.42,45.17,6,Credit Card,4,General,1
+702,24,Female,Urban,Basic,17,21.84,139,42.66,3.48,2,Credit Card,7,General,0
+703,42,Female,Rural,Basic,43,66.41,217,46.68,2.91,8,Cash,1,Billing,1
+704,62,Male,Urban,Basic,41,114.31,43,46.63,46.35,6,Debit Card,4,Technical,1
+705,21,Male,Urban,Basic,42,52.38,268,6.26,32.42,5,Cash,5,None,0
+706,53,Male,Suburban,Standard,50,86.11,77,19.1,18.98,5,Debit Card,9,Billing,0
+707,23,Male,Urban,Basic,40,85.22,215,1.41,37.75,0,Credit Card,7,General,0
+708,48,Female,Rural,Standard,39,45.11,97,42.76,33.62,4,Cash,7,Technical,0
+709,36,Male,Urban,Basic,23,85.04,235,17.94,26.56,9,Credit Card,4,General,0
+710,61,Female,Suburban,Standard,52,41.23,281,31.56,4.94,2,Debit Card,8,Billing,0
+711,56,Female,Suburban,Premium,47,32.2,148,35.74,40.61,6,Bank Transfer,3,General,0
+712,44,Male,Rural,Basic,63,90.14,65,21.49,43.3,9,Debit Card,8,Technical,0
+713,27,Female,Suburban,Standard,69,31.34,233,15.32,8.61,2,Bank Transfer,6,Technical,0
+714,43,Female,Urban,Premium,43,119.69,86,48.11,42.53,4,Credit Card,5,Billing,0
+715,36,Female,Suburban,Basic,48,38.35,78,48.22,43.89,6,Credit Card,3,Technical,0
+716,56,Female,Rural,Basic,34,79.41,204,14.47,27.47,2,Cash,1,General,0
+717,20,Male,Suburban,Basic,40,61.14,278,23.98,32.81,9,Bank Transfer,7,General,0
+718,62,Male,Suburban,Standard,61,32.64,253,48.64,19.11,1,Debit Card,5,None,0
+719,30,Female,Suburban,Standard,50,22.78,129,0.24,14.09,5,Credit Card,2,None,0
+720,67,Male,Rural,Premium,67,82.27,83,20.63,36.1,7,Bank Transfer,6,None,0
+721,45,Male,Suburban,Standard,62,100.68,275,5.02,43.09,3,Debit Card,9,General,0
+722,37,Male,Suburban,Standard,58,104.2,186,25.46,32.7,8,Bank Transfer,6,General,0
+723,45,Male,Urban,Basic,33,68.27,45,1.23,25.58,7,Debit Card,5,Billing,0
+724,25,Male,Rural,Basic,16,97.75,182,20.34,7.95,6,Debit Card,1,None,0
+725,58,Female,Suburban,Basic,48,87.28,267,11.03,2.67,6,Debit Card,7,General,0
+726,56,Male,Rural,Basic,10,92.43,295,26.67,22.28,2,Debit Card,0,Billing,1
+727,18,Male,Suburban,Basic,38,69.26,99,49.8,2.47,5,Bank Transfer,0,General,0
+728,20,Male,Suburban,Basic,19,83.34,77,40.03,28.47,4,Bank Transfer,5,Billing,1
+729,30,Male,Suburban,Basic,36,100.55,271,42.28,19.14,0,Cash,4,None,0
+730,45,Female,Urban,Premium,59,59.79,161,31.76,37.86,2,Bank Transfer,8,None,0
+731,66,Female,Urban,Premium,63,100.6,43,2.08,15.28,0,Bank Transfer,6,None,0
+732,42,Female,Urban,Premium,46,79.2,237,10.34,29.65,3,Cash,1,General,0
+733,50,Female,Rural,Premium,3,36.59,133,46.25,26.88,9,Bank Transfer,6,General,0
+734,55,Male,Rural,Basic,65,22.47,191,18.31,0.24,2,Debit Card,2,Billing,0
+735,23,Female,Urban,Premium,8,56.28,277,5.18,3.62,3,Credit Card,0,Technical,0
+736,61,Male,Rural,Basic,51,74.67,17,35.12,14.52,8,Credit Card,7,Technical,0
+737,62,Male,Suburban,Premium,6,103.98,11,14.97,44.11,2,Cash,2,None,0
+738,49,Male,Suburban,Standard,39,32.75,179,13.44,7.35,5,Bank Transfer,7,Technical,0
+739,62,Male,Suburban,Premium,60,100.02,122,49.9,35.54,5,Bank Transfer,6,None,0
+740,64,Male,Urban,Premium,28,106.3,245,42.91,48.67,6,Cash,1,Billing,0
+741,38,Female,Rural,Basic,54,35.07,221,20.4,39.53,8,Credit Card,0,Technical,1
+742,33,Female,Urban,Premium,37,105.16,50,49.01,12.15,6,Debit Card,6,Technical,0
+743,38,Female,Rural,Standard,9,119.15,70,32.51,45.42,0,Bank Transfer,0,None,0
+744,28,Female,Suburban,Basic,56,92.68,47,37.1,4.66,7,Cash,5,Billing,0
+745,54,Male,Urban,Basic,59,98.48,18,1.58,23.41,4,Debit Card,9,Technical,1
+746,53,Female,Rural,Premium,2,119.44,261,6.08,44.38,8,Cash,9,Technical,0
+747,52,Male,Rural,Basic,61,80.55,83,31.65,32.06,9,Cash,7,Technical,0
+748,36,Female,Suburban,Basic,58,50.79,154,44.95,20.68,4,Cash,6,Billing,0
+749,37,Male,Urban,Basic,60,103.75,52,31.19,14.64,4,Credit Card,3,Billing,0
+750,35,Male,Urban,Basic,40,81.45,106,6.7,18.75,1,Credit Card,0,Technical,0
+751,64,Female,Urban,Basic,36,78.12,134,5.79,25.45,2,Cash,0,None,0
+752,58,Male,Suburban,Basic,37,45.36,68,42.21,15.95,9,Bank Transfer,3,None,1
+753,66,Male,Urban,Standard,18,95.63,10,6.97,48.45,8,Debit Card,4,Technical,0
+754,31,Female,Suburban,Premium,63,28.17,142,26.01,46.65,6,Bank Transfer,6,Billing,0
+755,32,Male,Suburban,Standard,22,112.43,191,1.86,43.53,0,Credit Card,3,Technical,0
+756,48,Female,Suburban,Basic,11,52.58,68,4.03,21.09,2,Debit Card,9,Billing,0
+757,18,Female,Rural,Basic,58,32.78,22,33.62,34.57,1,Cash,0,Technical,0
+758,20,Female,Urban,Premium,57,64.24,180,34.46,45.14,0,Bank Transfer,9,Billing,0
+759,33,Male,Urban,Standard,4,24.25,292,17.07,42.52,8,Bank Transfer,6,General,0
+760,40,Male,Suburban,Premium,7,88.46,8,10.78,20.72,7,Cash,1,None,0
+761,28,Male,Suburban,Standard,61,110.27,270,40.69,5.62,4,Bank Transfer,1,General,0
+762,29,Female,Urban,Basic,54,103.73,92,10.86,3.78,1,Credit Card,7,None,0
+763,27,Male,Suburban,Premium,68,32.74,16,27.1,28.85,0,Cash,9,Billing,0
+764,49,Female,Urban,Premium,1,32.63,153,48.41,32.13,6,Bank Transfer,9,General,0
+765,33,Female,Rural,Basic,55,101.34,148,7.39,42.49,1,Cash,9,None,1
+766,25,Male,Suburban,Premium,3,112.43,266,47.04,14.63,0,Debit Card,4,Technical,0
+767,55,Female,Urban,Standard,38,66.07,105,9.14,8.37,1,Cash,9,Billing,0
+768,29,Male,Suburban,Standard,1,69.9,34,28.37,18.95,6,Bank Transfer,1,Billing,1
+769,41,Male,Urban,Standard,38,51.83,118,18.85,17.68,6,Credit Card,4,Technical,0
+770,45,Male,Urban,Standard,29,109.43,13,48.25,6.62,9,Cash,7,Technical,1
+771,25,Male,Suburban,Basic,5,84.49,13,13.68,33.61,5,Cash,5,None,0
+772,45,Male,Rural,Premium,21,48.83,265,19.98,25.43,4,Bank Transfer,2,Billing,0
+773,53,Female,Urban,Standard,71,49.88,139,49.14,36.06,2,Credit Card,7,None,0
+774,43,Female,Urban,Basic,67,109.12,293,26.82,17.63,2,Credit Card,8,Technical,1
+775,25,Female,Urban,Premium,47,21.36,118,25.13,16.29,8,Debit Card,4,Billing,0
+776,67,Male,Rural,Premium,35,52.27,237,12.89,23.63,3,Debit Card,1,Technical,1
+777,45,Male,Rural,Basic,68,75.44,33,35.07,43.87,8,Bank Transfer,1,None,0
+778,45,Male,Suburban,Basic,69,34.82,168,0.72,2.01,3,Credit Card,6,None,1
+779,54,Female,Rural,Standard,1,29.21,9,2.48,40.24,1,Credit Card,0,None,0
+780,58,Male,Suburban,Premium,68,101.53,121,29.97,18.45,3,Debit Card,9,Billing,0
+781,53,Female,Suburban,Premium,12,109.44,144,17.08,42.73,5,Debit Card,1,Technical,1
+782,44,Female,Rural,Basic,60,102.36,222,47.67,40.11,5,Bank Transfer,9,Technical,1
+783,34,Male,Suburban,Premium,27,109.88,256,45.16,17.44,4,Credit Card,3,None,0
+784,26,Male,Rural,Standard,56,75.31,267,35.69,34.69,0,Cash,0,None,0
+785,50,Female,Suburban,Premium,23,101.23,3,40.91,7.98,2,Debit Card,3,None,0
+786,37,Male,Rural,Basic,25,58.4,105,33.37,44.81,4,Bank Transfer,9,None,0
+787,30,Female,Rural,Basic,21,86.63,84,6.28,20.22,5,Credit Card,4,General,0
+788,45,Male,Suburban,Standard,61,118.88,213,38.28,22.78,0,Credit Card,8,General,0
+789,65,Male,Urban,Standard,63,42.57,120,10.51,35.29,8,Debit Card,0,General,0
+790,46,Female,Suburban,Premium,52,58.99,131,16.17,41.04,2,Bank Transfer,4,None,0
+791,30,Male,Rural,Premium,25,68.0,196,40.96,11.82,9,Cash,1,None,0
+792,63,Female,Urban,Basic,55,33.8,18,26.83,33.07,2,Debit Card,8,Technical,0
+793,52,Male,Suburban,Standard,46,28.1,129,43.0,19.6,1,Bank Transfer,5,Billing,0
+794,23,Female,Suburban,Standard,32,102.97,11,10.65,18.44,7,Credit Card,1,Technical,0
+795,35,Female,Suburban,Standard,55,117.68,80,30.39,34.5,2,Cash,2,General,0
+796,68,Male,Urban,Premium,5,60.47,261,4.19,19.36,5,Bank Transfer,7,Technical,0
+797,22,Female,Rural,Standard,36,28.76,124,32.15,17.31,1,Cash,0,None,0
+798,64,Male,Suburban,Basic,49,26.58,266,38.13,41.79,6,Bank Transfer,2,General,1
+799,42,Male,Suburban,Basic,58,109.13,139,29.25,5.06,3,Bank Transfer,9,General,0
+800,19,Male,Suburban,Premium,39,66.38,1,13.31,33.79,8,Bank Transfer,0,Billing,1
+801,27,Female,Suburban,Premium,61,52.0,7,1.57,12.44,9,Bank Transfer,7,Billing,0
+802,47,Female,Suburban,Standard,9,67.65,249,5.97,0.77,8,Cash,0,General,0
+803,67,Male,Rural,Premium,6,51.83,138,31.12,8.34,6,Debit Card,4,General,0
+804,62,Male,Rural,Basic,35,68.9,123,46.72,30.33,7,Cash,3,Technical,0
+805,22,Female,Suburban,Standard,39,105.96,227,10.33,35.46,2,Bank Transfer,6,General,0
+806,50,Male,Urban,Basic,22,79.23,9,36.75,1.05,4,Cash,4,None,0
+807,18,Male,Rural,Standard,41,89.47,211,43.32,1.82,1,Cash,7,Technical,0
+808,35,Female,Urban,Premium,5,56.47,111,26.04,45.13,9,Cash,0,None,0
+809,49,Male,Rural,Standard,42,93.85,7,33.46,3.67,6,Bank Transfer,4,None,0
+810,64,Female,Suburban,Standard,67,86.66,291,40.75,44.71,7,Cash,3,None,0
+811,66,Male,Rural,Basic,30,31.96,252,13.03,11.41,8,Credit Card,2,General,0
+812,28,Female,Suburban,Basic,57,77.26,13,14.84,37.0,6,Bank Transfer,4,Billing,1
+813,38,Male,Rural,Standard,29,45.67,239,0.03,15.49,9,Cash,9,Billing,0
+814,43,Male,Suburban,Premium,37,100.41,241,48.15,42.94,9,Credit Card,2,None,0
+815,42,Female,Suburban,Premium,13,62.59,148,45.88,35.02,7,Cash,7,General,0
+816,39,Male,Suburban,Basic,32,119.47,235,38.23,20.09,8,Debit Card,2,Technical,1
+817,44,Female,Suburban,Premium,46,29.25,166,3.95,3.82,5,Cash,0,None,0
+818,66,Male,Urban,Basic,23,98.03,19,22.38,36.64,9,Cash,8,Technical,0
+819,30,Female,Suburban,Premium,45,87.37,215,5.09,30.84,1,Debit Card,8,Technical,0
+820,50,Female,Urban,Standard,17,96.75,134,0.8,0.15,1,Bank Transfer,5,General,0
+821,51,Female,Urban,Basic,66,50.75,128,30.81,0.47,3,Debit Card,9,General,0
+822,58,Female,Suburban,Basic,6,69.21,293,48.04,40.44,8,Bank Transfer,0,Billing,0
+823,52,Male,Urban,Standard,18,99.65,245,45.14,12.97,6,Debit Card,7,Billing,1
+824,18,Male,Rural,Basic,22,43.25,188,34.84,31.81,1,Cash,1,General,0
+825,38,Female,Suburban,Premium,33,42.6,43,4.83,22.71,7,Cash,8,None,0
+826,65,Female,Urban,Premium,30,75.11,85,13.71,43.17,6,Bank Transfer,7,Billing,0
+827,23,Female,Suburban,Basic,32,72.36,43,16.0,45.85,8,Bank Transfer,2,Technical,0
+828,45,Male,Suburban,Premium,42,48.23,144,38.16,49.84,7,Credit Card,4,None,0
+829,34,Male,Suburban,Basic,10,49.81,50,40.11,7.68,2,Credit Card,8,Technical,0
+830,22,Male,Urban,Standard,36,47.78,241,19.26,43.15,0,Cash,0,General,0
+831,48,Male,Rural,Basic,34,97.15,293,20.89,13.3,1,Cash,8,Technical,0
+832,22,Female,Rural,Standard,28,85.19,50,2.23,29.54,1,Credit Card,3,None,0
+833,55,Female,Urban,Premium,11,103.24,265,14.46,25.29,3,Credit Card,3,General,0
+834,20,Female,Suburban,Standard,39,117.55,119,22.56,0.9,5,Bank Transfer,3,None,0
+835,40,Male,Urban,Premium,47,67.42,199,5.85,46.64,3,Debit Card,9,Technical,0
+836,54,Male,Urban,Basic,19,26.67,247,22.66,3.92,8,Bank Transfer,8,None,0
+837,54,Male,Urban,Premium,15,24.81,69,42.66,34.41,3,Credit Card,5,General,0
+838,27,Female,Suburban,Basic,28,49.57,56,29.07,39.25,5,Cash,7,Technical,0
+839,27,Female,Urban,Basic,24,113.25,38,3.95,39.76,5,Credit Card,3,Technical,0
+840,36,Male,Suburban,Standard,9,72.32,288,9.58,6.77,9,Cash,2,Billing,0
+841,34,Female,Urban,Standard,47,47.18,17,23.73,22.38,9,Cash,0,Billing,0
+842,38,Male,Rural,Standard,33,59.92,219,18.07,41.47,0,Cash,9,None,1
+843,31,Male,Urban,Standard,62,79.86,243,17.94,15.13,7,Cash,6,Billing,0
+844,26,Female,Urban,Premium,19,85.29,297,26.46,23.39,2,Debit Card,3,Billing,0
+845,63,Male,Rural,Premium,67,35.39,282,29.22,13.64,5,Credit Card,7,Billing,0
+846,18,Female,Suburban,Premium,40,117.7,73,39.84,23.18,2,Bank Transfer,2,Billing,0
+847,68,Male,Suburban,Basic,47,74.48,109,17.05,44.39,1,Cash,0,General,1
+848,62,Female,Urban,Premium,65,33.57,179,40.27,22.76,4,Cash,4,General,0
+849,30,Female,Rural,Premium,29,109.36,31,16.93,27.8,0,Bank Transfer,1,Billing,0
+850,21,Female,Suburban,Premium,50,27.46,233,2.77,20.2,8,Bank Transfer,2,None,0
+851,18,Male,Urban,Standard,13,110.77,281,27.71,23.01,6,Cash,5,General,1
+852,66,Male,Rural,Premium,1,119.66,24,29.4,0.76,2,Bank Transfer,2,Billing,0
+853,57,Female,Suburban,Basic,34,90.04,278,46.73,14.19,3,Bank Transfer,2,General,1
+854,49,Female,Suburban,Standard,48,97.04,225,36.3,21.83,5,Debit Card,5,Technical,0
+855,51,Male,Rural,Basic,48,53.73,56,45.89,31.69,2,Bank Transfer,4,General,0
+856,45,Male,Rural,Premium,49,114.16,179,45.42,22.5,6,Credit Card,9,General,0
+857,48,Male,Rural,Standard,64,72.97,231,30.23,16.89,5,Credit Card,8,None,1
+858,25,Female,Rural,Basic,61,93.24,286,26.39,19.4,8,Credit Card,0,General,1
+859,56,Male,Urban,Premium,29,112.41,63,27.87,12.11,4,Cash,2,None,0
+860,43,Male,Rural,Basic,39,117.52,231,48.92,46.22,3,Credit Card,2,Technical,0
+861,51,Female,Suburban,Basic,26,103.32,288,38.66,26.09,2,Debit Card,5,Billing,0
+862,20,Male,Suburban,Basic,17,50.3,212,5.31,0.67,9,Credit Card,7,None,0
+863,67,Male,Urban,Premium,71,116.65,257,38.92,0.97,0,Cash,2,General,0
+864,29,Male,Suburban,Premium,13,82.81,17,8.53,48.65,2,Debit Card,2,General,0
+865,18,Female,Suburban,Basic,69,113.06,174,22.37,11.07,2,Credit Card,5,None,0
+866,61,Female,Rural,Standard,26,87.61,228,10.52,40.28,6,Debit Card,7,Technical,0
+867,22,Female,Suburban,Standard,49,50.72,225,34.48,2.91,6,Debit Card,5,Billing,0
+868,47,Female,Urban,Premium,67,57.0,83,43.87,46.06,0,Cash,9,General,0
+869,47,Female,Rural,Premium,7,75.05,290,14.52,43.72,2,Cash,2,Technical,1
+870,34,Female,Rural,Premium,58,99.0,245,4.1,28.55,7,Debit Card,3,Billing,0
+871,65,Female,Urban,Premium,49,51.8,109,14.92,0.45,8,Credit Card,0,Billing,0
+872,64,Male,Rural,Premium,53,77.97,253,33.62,12.89,6,Cash,7,General,0
+873,40,Male,Rural,Standard,65,54.56,87,16.44,20.34,6,Debit Card,3,None,0
+874,32,Female,Urban,Premium,62,101.58,71,13.91,23.0,7,Bank Transfer,5,General,0
+875,54,Male,Rural,Basic,17,66.67,29,9.22,14.88,5,Bank Transfer,2,General,0
+876,38,Male,Urban,Basic,43,27.67,171,24.88,1.65,2,Cash,5,General,0
+877,31,Female,Urban,Standard,25,36.61,176,13.8,29.51,0,Credit Card,8,Technical,1
+878,19,Male,Suburban,Basic,3,26.11,138,36.55,26.21,6,Bank Transfer,8,None,0
+879,28,Male,Suburban,Standard,29,69.93,193,3.83,14.15,0,Bank Transfer,9,Technical,0
+880,68,Male,Rural,Standard,32,30.63,185,33.2,1.9,0,Bank Transfer,2,General,1
+881,56,Male,Rural,Basic,26,31.41,217,11.88,49.73,8,Credit Card,2,None,0
+882,55,Male,Urban,Premium,16,114.1,163,24.46,24.1,9,Credit Card,3,Billing,0
+883,51,Female,Rural,Basic,25,107.27,160,14.3,37.8,6,Cash,6,None,1
+884,55,Female,Urban,Basic,54,65.21,12,36.14,22.62,3,Cash,2,General,0
+885,67,Female,Urban,Standard,28,118.58,295,47.27,2.16,5,Bank Transfer,9,None,0
+886,51,Male,Rural,Basic,56,20.02,88,45.85,15.48,0,Credit Card,7,Billing,1
+887,35,Female,Urban,Standard,65,81.4,41,29.17,16.01,6,Debit Card,7,Billing,0
+888,47,Male,Suburban,Premium,41,81.64,209,23.13,41.92,5,Bank Transfer,5,None,1
+889,32,Male,Rural,Premium,51,65.74,228,40.92,32.71,3,Cash,3,Billing,0
+890,44,Male,Suburban,Premium,71,59.69,274,34.17,13.77,6,Credit Card,4,Technical,0
+891,68,Male,Rural,Basic,29,65.54,278,9.18,48.39,2,Cash,1,None,0
+892,51,Female,Urban,Standard,19,61.5,250,41.05,16.08,0,Cash,5,Billing,1
+893,69,Female,Rural,Premium,66,93.05,207,21.44,49.91,3,Credit Card,2,Billing,0
+894,55,Male,Suburban,Standard,41,33.54,139,9.45,49.81,2,Bank Transfer,5,None,0
+895,50,Female,Urban,Standard,45,39.76,279,14.09,9.56,0,Credit Card,4,Technical,0
+896,41,Male,Rural,Premium,15,38.05,33,13.38,15.64,1,Bank Transfer,1,None,0
+897,32,Female,Rural,Premium,3,46.25,17,25.96,24.3,4,Cash,4,Billing,0
+898,47,Female,Rural,Standard,11,72.53,56,11.72,33.21,7,Credit Card,4,None,1
+899,59,Male,Suburban,Premium,53,31.12,111,6.18,26.4,0,Debit Card,8,Billing,0
+900,68,Female,Suburban,Standard,46,106.82,4,6.18,48.47,3,Bank Transfer,7,General,0
+901,34,Male,Rural,Standard,30,49.74,181,29.16,36.2,3,Debit Card,6,None,0
+902,22,Female,Urban,Premium,57,36.25,12,36.74,10.6,4,Bank Transfer,2,None,0
+903,46,Male,Urban,Basic,18,87.56,284,16.08,5.25,6,Credit Card,9,Billing,0
+904,21,Male,Suburban,Premium,51,23.81,258,1.73,34.42,7,Debit Card,3,Billing,0
+905,27,Female,Urban,Basic,48,82.0,89,6.36,7.92,5,Credit Card,5,Billing,0
+906,34,Female,Suburban,Standard,66,89.82,103,45.73,39.38,0,Bank Transfer,2,Billing,0
+907,27,Male,Rural,Standard,8,41.49,185,24.68,15.55,6,Bank Transfer,8,None,0
+908,34,Female,Suburban,Basic,22,24.2,249,22.68,16.34,2,Bank Transfer,7,Billing,0
+909,37,Female,Suburban,Standard,6,56.36,254,1.9,0.54,5,Bank Transfer,5,None,0
+910,41,Male,Rural,Basic,57,29.86,75,36.43,35.05,7,Cash,3,Technical,1
+911,22,Male,Urban,Basic,36,31.65,107,26.4,5.66,6,Bank Transfer,6,None,0
+912,51,Female,Suburban,Standard,57,45.43,155,10.1,38.64,9,Debit Card,2,Billing,0
+913,23,Male,Suburban,Basic,49,49.55,81,5.5,24.59,5,Bank Transfer,9,Billing,0
+914,19,Male,Rural,Premium,45,73.0,76,19.17,39.21,8,Credit Card,7,Technical,0
+915,30,Male,Urban,Premium,66,87.84,257,41.86,29.2,8,Cash,0,None,0
+916,60,Female,Suburban,Standard,45,79.28,126,43.26,4.12,0,Debit Card,2,Technical,0
+917,60,Female,Rural,Standard,20,34.84,281,30.14,38.28,0,Cash,4,None,0
+918,65,Male,Suburban,Basic,64,37.21,87,36.38,3.49,0,Cash,4,Billing,0
+919,28,Female,Rural,Basic,67,107.88,203,5.76,23.94,7,Cash,9,None,0
+920,68,Male,Urban,Basic,3,75.84,15,29.41,8.62,9,Credit Card,1,Billing,0
+921,64,Female,Urban,Basic,54,106.99,150,33.35,37.62,6,Cash,9,Billing,0
+922,40,Male,Urban,Premium,64,57.15,253,10.04,45.58,2,Cash,7,General,0
+923,33,Male,Urban,Premium,40,81.44,187,44.01,27.71,1,Bank Transfer,4,General,0
+924,48,Female,Suburban,Standard,59,72.37,31,9.75,26.36,3,Credit Card,6,None,1
+925,28,Male,Suburban,Basic,55,51.91,270,15.67,38.2,2,Debit Card,6,Billing,1
+926,33,Female,Urban,Basic,62,66.99,4,31.03,0.25,6,Debit Card,4,Technical,0
+927,25,Female,Urban,Standard,4,70.25,168,31.92,45.89,9,Debit Card,7,Billing,0
+928,21,Male,Urban,Basic,60,40.08,180,34.97,9.87,7,Credit Card,8,Technical,0
+929,57,Male,Suburban,Basic,30,51.5,177,5.6,49.21,5,Debit Card,3,None,0
+930,21,Female,Urban,Basic,2,99.14,142,42.47,36.81,2,Credit Card,3,None,0
+931,42,Male,Urban,Basic,62,111.58,247,26.64,38.71,5,Bank Transfer,7,Technical,1
+932,20,Male,Urban,Basic,49,55.98,126,23.57,32.81,1,Bank Transfer,0,Technical,0
+933,49,Male,Rural,Standard,9,50.7,262,49.05,23.58,6,Credit Card,3,Billing,1
+934,20,Male,Urban,Basic,31,39.52,39,37.02,28.58,9,Debit Card,5,None,0
+935,44,Male,Rural,Standard,61,87.85,254,5.9,2.32,6,Credit Card,3,Billing,0
+936,46,Female,Rural,Basic,48,52.31,142,37.83,31.2,3,Credit Card,5,Technical,0
+937,49,Female,Urban,Premium,25,118.77,239,4.76,31.3,7,Cash,4,General,1
+938,67,Male,Rural,Premium,36,52.57,227,1.37,44.56,3,Credit Card,8,General,0
+939,68,Male,Urban,Premium,8,59.41,197,20.18,25.28,6,Cash,9,General,0
+940,36,Male,Suburban,Premium,58,80.33,64,49.68,3.86,3,Bank Transfer,8,Technical,1
+941,38,Female,Suburban,Standard,45,100.17,10,8.74,15.31,4,Cash,3,Billing,0
+942,22,Male,Suburban,Standard,62,66.95,107,33.63,32.78,6,Credit Card,3,None,0
+943,35,Female,Suburban,Basic,39,62.27,25,8.67,11.96,9,Bank Transfer,7,Technical,0
+944,45,Female,Rural,Premium,58,119.56,150,36.24,14.03,2,Cash,9,General,0
+945,59,Female,Urban,Standard,64,21.05,220,25.27,41.02,9,Credit Card,3,Billing,0
+946,39,Male,Urban,Basic,44,109.51,236,34.0,29.22,4,Bank Transfer,1,None,0
+947,38,Female,Urban,Basic,29,34.91,236,10.14,25.43,2,Cash,1,None,0
+948,23,Male,Suburban,Standard,59,98.59,218,37.28,15.92,4,Credit Card,0,Technical,0
+949,18,Female,Suburban,Premium,71,81.79,150,49.78,36.55,2,Credit Card,4,Technical,0
+950,22,Male,Urban,Basic,9,54.18,122,33.28,14.39,9,Debit Card,5,None,0
+951,58,Female,Suburban,Premium,6,107.39,143,24.67,36.85,6,Debit Card,8,None,1
+952,29,Male,Urban,Premium,29,21.29,188,46.16,3.51,0,Cash,4,General,1
+953,43,Female,Urban,Premium,58,42.67,254,0.79,43.23,8,Cash,5,None,0
+954,63,Male,Urban,Basic,17,76.69,67,36.5,24.98,8,Cash,5,Technical,0
+955,51,Male,Urban,Premium,16,55.15,103,44.44,21.93,4,Credit Card,2,Billing,0
+956,66,Male,Urban,Basic,3,81.04,158,3.08,30.55,8,Cash,3,General,0
+957,31,Male,Urban,Premium,21,22.41,299,22.5,31.21,9,Credit Card,0,General,0
+958,43,Female,Urban,Basic,64,31.65,89,10.24,6.6,5,Cash,3,None,0
+959,62,Female,Suburban,Premium,36,32.71,255,28.33,37.81,4,Credit Card,0,Billing,0
+960,44,Male,Urban,Standard,62,38.93,219,32.48,13.8,2,Credit Card,4,General,0
+961,26,Female,Urban,Premium,42,65.93,8,15.13,45.25,7,Debit Card,7,Technical,0
+962,43,Male,Suburban,Premium,42,95.21,11,23.0,40.89,3,Bank Transfer,7,None,0
+963,64,Male,Suburban,Basic,61,110.55,243,13.97,17.31,9,Credit Card,4,Technical,0
+964,39,Female,Suburban,Basic,13,103.54,181,18.47,40.39,2,Cash,9,None,0
+965,64,Male,Urban,Premium,11,39.69,283,7.98,17.82,5,Debit Card,1,General,0
+966,47,Male,Rural,Standard,54,64.12,98,44.28,5.05,7,Cash,5,None,1
+967,60,Female,Rural,Standard,16,39.94,196,0.5,48.09,8,Cash,0,Billing,0
+968,65,Male,Suburban,Basic,8,46.45,225,44.12,32.63,5,Credit Card,6,Technical,0
+969,34,Male,Rural,Standard,59,70.35,102,28.58,22.8,4,Credit Card,3,Billing,0
+970,43,Male,Suburban,Premium,57,26.81,105,16.58,19.89,1,Bank Transfer,4,Technical,0
+971,53,Male,Urban,Basic,40,41.82,57,36.15,16.24,1,Credit Card,5,Technical,0
+972,18,Female,Rural,Premium,59,113.54,77,25.39,49.07,8,Credit Card,0,None,0
+973,25,Female,Urban,Basic,2,66.61,74,24.96,6.74,1,Bank Transfer,8,General,0
+974,66,Female,Rural,Basic,10,64.54,41,5.51,15.74,1,Cash,9,General,0
+975,52,Male,Urban,Basic,44,21.46,180,19.48,24.27,2,Bank Transfer,3,Billing,0
+976,69,Male,Rural,Basic,11,44.74,32,12.05,23.9,2,Bank Transfer,7,None,0
+977,32,Female,Urban,Standard,2,106.63,70,0.78,23.57,3,Bank Transfer,4,General,0
+978,64,Male,Urban,Premium,50,36.46,55,18.0,8.79,6,Debit Card,7,Technical,1
+979,39,Male,Rural,Premium,12,61.51,104,4.49,7.25,8,Cash,0,Technical,0
+980,31,Male,Urban,Premium,23,21.43,199,12.84,12.74,1,Debit Card,7,None,0
+981,43,Male,Urban,Basic,18,67.83,100,4.63,45.73,3,Debit Card,3,Billing,0
+982,45,Female,Urban,Standard,62,22.1,255,5.05,5.65,8,Credit Card,1,None,0
+983,40,Female,Rural,Premium,62,101.96,73,9.95,37.87,1,Bank Transfer,5,Billing,0
+984,31,Female,Rural,Standard,38,102.49,170,49.99,37.88,9,Bank Transfer,1,None,0
+985,41,Male,Urban,Basic,67,98.77,142,0.11,40.49,0,Debit Card,4,Technical,0
+986,19,Female,Urban,Premium,38,48.34,165,31.93,44.33,9,Credit Card,1,None,0
+987,62,Female,Rural,Standard,67,103.72,260,7.06,13.15,7,Credit Card,2,General,1
+988,43,Male,Rural,Basic,61,74.3,220,46.03,11.23,8,Credit Card,5,General,0
+989,31,Male,Urban,Standard,1,57.38,82,4.68,23.28,6,Cash,0,None,0
+990,68,Female,Urban,Premium,45,82.53,181,47.75,13.25,7,Debit Card,5,Billing,0
+991,24,Female,Urban,Premium,28,21.23,9,30.55,36.72,3,Cash,2,Billing,0
+992,20,Female,Suburban,Basic,21,34.3,3,0.06,31.8,3,Credit Card,6,Technical,0
+993,64,Female,Rural,Basic,13,94.23,291,44.7,43.75,1,Credit Card,1,Technical,1
+994,40,Male,Suburban,Basic,27,44.42,280,26.09,4.14,7,Credit Card,5,Billing,0
+995,63,Female,Rural,Standard,7,79.8,214,13.13,45.75,1,Bank Transfer,7,None,0
+996,60,Female,Rural,Standard,22,58.51,97,38.36,14.67,8,Debit Card,0,Technical,1
+997,64,Male,Rural,Standard,53,105.48,100,46.33,24.53,3,Bank Transfer,8,Billing,0
+998,62,Female,Rural,Basic,4,115.24,8,24.18,21.93,0,Cash,4,Billing,0
+999,35,Male,Rural,Premium,23,108.36,60,15.78,38.02,3,Bank Transfer,4,None,0
+1000,55,Male,Rural,Premium,70,47.06,145,39.45,21.02,2,Debit Card,4,General,0
