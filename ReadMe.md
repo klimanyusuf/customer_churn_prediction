@@ -6,7 +6,7 @@ This repository contains a machine learning model to predict customer churn for 
 
 - `customer_churn_data.csv`: Sample dataset used for training the model.
 - `churn_model.ipynb`: Jupyter notebook containing the full implementation of data preprocessing, model training, evaluation, and interpretation.
-- `crandom_forest_model.pkl`: Saved Random Forest model for real-time predictions.
+- `random_forest_model.pkl`: Saved Random Forest model for real-time predictions.
 - `README.md`: This readme file.
 - `requirements.txt`: List of required Python packages.
 
