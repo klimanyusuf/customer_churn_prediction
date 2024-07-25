@@ -31,7 +31,7 @@ Ensure you have Python 3.8 or later installed on your system.
     pip install -r requirements.txt
     ```
 
-3. Download the `customer_churn_data.csv` dataset and place it in the project directory.
+3. Download the `customer_churn_data1.csv` dataset and place it in the project directory.
 
 ### Usage
 
